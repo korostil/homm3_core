@@ -1,0 +1,422 @@
+{
+    "Haste": {
+        "mana": 6,
+        "image": "images/spells/haste.png",
+        "level": 1,
+        "school": 1
+    },
+    "View Air": {
+        "mana": 2,
+        "image": "images/spells/view_air.png",
+        "level": 1,
+        "school": 1
+    },
+    "Disguise": {
+        "mana": 4,
+        "image": "images/spells/disguise.png",
+        "level": 2,
+        "school": 1
+    },
+    "Disrupting Ray": {
+        "mana": 10,
+        "image": "images/spells/disrupting_ray.png",
+        "level": 2,
+        "school": 1
+    },
+    "Fortune": {
+        "mana": 7,
+        "image": "images/spells/fortune.png",
+        "level": 2,
+        "school": 1
+    },
+    "Lightning Bolt": {
+        "mana": 10,
+        "image": "images/spells/lightning_bolt.png",
+        "level": 2,
+        "school": 1
+    },
+    "Precision": {
+        "mana": 8,
+        "image": "images/spells/precision.png",
+        "level": 2,
+        "school": 1
+    },
+    "Protection From Air": {
+        "mana": 5,
+        "image": "images/spells/protection_from_air.png",
+        "level": 2,
+        "school": 1
+    },
+    "Air Shield": {
+        "mana": 12,
+        "image": "images/spells/air_shield.png",
+        "level": 3,
+        "school": 1
+    },
+    "Destroy Undead": {
+        "mana": 15,
+        "image": "images/spells/destroy_undead.png",
+        "level": 3,
+        "school": 1
+    },
+    "Hypnotize": {
+        "mana": 18,
+        "image": "images/spells/hypnotize.png",
+        "level": 3,
+        "school": 1
+    },
+    "Chain Lightning": {
+        "mana": 24,
+        "image": "images/spells/chain_lightning.png",
+        "level": 4,
+        "school": 1
+    },
+    "Counterstrike": {
+        "mana": 24,
+        "image": "images/spells/counterstrike.png",
+        "level": 4,
+        "school": 1
+    },
+    "Dimension Door": {
+        "mana": 25,
+        "image": "images/spells/dimension_door.png",
+        "level": 5,
+        "school": 1
+    },
+    "Fly": {
+        "mana": 20,
+        "image": "images/spells/fly.png",
+        "level": 5,
+        "school": 1
+    },
+    "Magic Mirror": {
+        "mana": 25,
+        "image": "images/spells/magic_mirror.png",
+        "level": 5,
+        "school": 1
+    },
+    "Summon Air Elemental": {
+        "mana": 25,
+        "image": "images/spells/summon_air_elemental.png",
+        "level": 5,
+        "school": 1
+    },
+    "Titan's Lightning Bolt": {
+        "mana": 0,
+        "image": "images/spells/titans_lightning_bolt.png",
+        "level": 5,
+        "school": 1
+    },
+    "Magic Arrow": {
+        "mana": 5,
+        "image": "images/spells/magic_arrow.png",
+        "level": 1,
+        "school": 5
+    },
+    "Visions": {
+        "mana": 4,
+        "image": "images/spells/visions.png",
+        "level": 2,
+        "school": 5
+    },
+    "Shield": {
+        "mana": 5,
+        "image": "images/spells/shield.png",
+        "level": 1,
+        "school": 2
+    },
+    "Slow": {
+        "mana": 6,
+        "image": "images/spells/slow.png",
+        "level": 1,
+        "school": 2
+    },
+    "Stone Skin": {
+        "mana": 5,
+        "image": "images/spells/stone_skin.png",
+        "level": 1,
+        "school": 2
+    },
+    "View Earth": {
+        "mana": 2,
+        "image": "images/spells/view_earth.png",
+        "level": 1,
+        "school": 2
+    },
+    "Death Ripple": {
+        "mana": 10,
+        "image": "images/spells/dead_ripple.png",
+        "level": 2,
+        "school": 2
+    },
+    "Quicksand": {
+        "mana": 8,
+        "image": "images/spells/quicksand.png",
+        "level": 2,
+        "school": 2
+    },
+    "Animate Dead": {
+        "mana": 15,
+        "image": "images/spells/animate_dead.png",
+        "level": 3,
+        "school": 2
+    },
+    "Anti Magic": {
+        "mana": 15,
+        "image": "images/spells/anti_magic.png",
+        "level": 3,
+        "school": 2
+    },
+    "Earthquake": {
+        "mana": 20,
+        "image": "images/spells/earthquake.png",
+        "level": 3,
+        "school": 2
+    },
+    "Force Field": {
+        "mana": 12,
+        "image": "images/spells/force_field.png",
+        "level": 3,
+        "school": 2
+    },
+    "Protection From Earth": {
+        "mana": 5,
+        "image": "images/spells/protection_from_earth.png",
+        "level": 3,
+        "school": 2
+    },
+    "Meteor Shower": {
+        "mana": 16,
+        "image": "images/spells/meteor_shower.png",
+        "level": 4,
+        "school": 2
+    },
+    "Resurrection": {
+        "mana": 20,
+        "image": "images/spells/resurrection.png",
+        "level": 4,
+        "school": 2
+    },
+    "Sorrow": {
+        "mana": 16,
+        "image": "images/spells/sorrow.png",
+        "level": 4,
+        "school": 2
+    },
+    "Town Portal": {
+        "mana": 16,
+        "image": "images/spells/town_portal.png",
+        "level": 4,
+        "school": 2
+    },
+    "Implosion": {
+        "mana": 30,
+        "image": "images/spells/implosion.png",
+        "level": 5,
+        "school": 2
+    },
+    "Summon Earth Elemental": {
+        "mana": 25,
+        "image": "images/spells/summon_earth_elemental.png",
+        "level": 5,
+        "school": 2
+    },
+    "Bloodlust": {
+        "mana": 5,
+        "image": "images/spells/bloodlust.png",
+        "level": 1,
+        "school": 3
+    },
+    "Curse": {
+        "mana": 6,
+        "image": "images/spells/curse.png",
+        "level": 1,
+        "school": 3
+    },
+    "Protection From Fire": {
+        "mana": 5,
+        "image": "images/spells/protection_from_fire.png",
+        "level": 1,
+        "school": 3
+    },
+    "Blind": {
+        "mana": 10,
+        "image": "images/spells/blind.png",
+        "level": 2,
+        "school": 3
+    },
+    "Fire Wall": {
+        "mana": 8,
+        "image": "images/spells/fire_wall.png",
+        "level": 2,
+        "school": 3
+    },
+    "Fireball": {
+        "mana": 15,
+        "image": "images/spells/fireball.png",
+        "level": 3,
+        "school": 3
+    },
+    "Land Mine": {
+        "mana": 18,
+        "image": "images/spells/land_mine.png",
+        "level": 3,
+        "school": 3
+    },
+    "Misfortune": {
+        "mana": 12,
+        "image": "images/spells/misfortune.png",
+        "level": 3,
+        "school": 3
+    },
+    "Armageddon": {
+        "mana": 24,
+        "image": "images/spells/armageddon.png",
+        "level": 4,
+        "school": 3
+    },
+    "Berserk": {
+        "mana": 20,
+        "image": "images/spells/berserk.png",
+        "level": 4,
+        "school": 3
+    },
+    "Fire Shield": {
+        "mana": 16,
+        "image": "images/spells/fire_shield.png",
+        "level": 4,
+        "school": 3
+    },
+    "Frenzy": {
+        "mana": 16,
+        "image": "images/spells/frenzy.png",
+        "level": 4,
+        "school": 3
+    },
+    "Inferno": {
+        "mana": 16,
+        "image": "images/spells/inferno.png",
+        "level": 4,
+        "school": 3
+    },
+    "Slayer": {
+        "mana": 16,
+        "image": "images/spells/slayer.png",
+        "level": 4,
+        "school": 3
+    },
+    "Sacrifice": {
+        "mana": 25,
+        "image": "images/spells/sacrifice.png",
+        "level": 5,
+        "school": 3
+    },
+    "Summon Fire Elemental": {
+        "mana": 25,
+        "image": "images/spells/summon_fire_elemental.png",
+        "level": 5,
+        "school": 3
+    },
+    "Cure": {
+        "mana": 6,
+        "image": "images/spells/cure.png",
+        "level": 1,
+        "school": 4
+    },
+    "Dispel": {
+        "mana": 5,
+        "image": "images/spells/dispel.png",
+        "level": 1,
+        "school": 4
+    },
+    "Bless": {
+        "mana": 5,
+        "image": "images/spells/bless.png",
+        "level": 1,
+        "school": 4
+    },
+    "Protection From Water": {
+        "mana": 5,
+        "image": "images/spells/protection_from_water.png",
+        "level": 1,
+        "school": 4
+    },
+    "Summon Boat": {
+        "mana": 6,
+        "image": "images/spells/summon_boat.png",
+        "level": 1,
+        "school": 4
+    },
+    "Ice Bolt": {
+        "mana": 8,
+        "image": "images/spells/ice_bolt.png",
+        "level": 2,
+        "school": 4
+    },
+    "Remove Obstacle": {
+        "mana": 7,
+        "image": "images/spells/remove_obstacle.png",
+        "level": 2,
+        "school": 4
+    },
+    "Scuttle Boat": {
+        "mana": 8,
+        "image": "images/spells/scuttle_boat.png",
+        "level": 2,
+        "school": 4
+    },
+    "Weakness": {
+        "mana": 8,
+        "image": "images/spells/weakness.png",
+        "level": 2,
+        "school": 4
+    },
+    "Forgetfulness": {
+        "mana": 12,
+        "image": "images/spells/forgetfulness.png",
+        "level": 3,
+        "school": 4
+    },
+    "Frost Ring": {
+        "mana": 12,
+        "image": "images/spells/frost_ring.png",
+        "level": 3,
+        "school": 4
+    },
+    "Mirth": {
+        "mana": 12,
+        "image": "images/spells/mirth.png",
+        "level": 3,
+        "school": 4
+    },
+    "Teleport": {
+        "mana": 15,
+        "image": "images/spells/teleport.png",
+        "level": 3,
+        "school": 4
+    },
+    "Clone": {
+        "mana": 24,
+        "image": "images/spells/clone.png",
+        "level": 4,
+        "school": 4
+    },
+    "Prayer": {
+        "mana": 16,
+        "image": "images/spells/prayer.png",
+        "level": 4,
+        "school": 4
+    },
+    "Water Walk": {
+        "mana": 12,
+        "image": "images/spells/water_walk.png",
+        "level": 4,
+        "school": 4
+    },
+    "Summon Water Elemental": {
+        "mana": 25,
+        "image": "images/spells/summon_water_elemental.png",
+        "level": 5,
+        "school": 4
+    }
+}

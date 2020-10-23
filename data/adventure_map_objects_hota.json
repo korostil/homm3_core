@@ -1,0 +1,1191 @@
+{
+	"Abandoned Mine": {
+		"index": 1,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Alchemist's Lab": {
+		"index": 2,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Altar of Mana": {
+		"index": 3,
+		"visiting_scheme": [
+			[0, -1],
+			[1, 1]
+		]
+	},
+	"Altar of Sacrifice": {
+		"index": 4,
+		"visiting_scheme": [[0, 1]]
+	},
+	"Ancient Lamp": {
+		"index": 5,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Anti-magic Garrison": {
+		"index": 6,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Arena": {
+		"index": 7,
+		"visiting_scheme": [
+			[0, 0, 0],
+			[0, 1, 0]
+		]
+	},
+	"Artifact": {
+		"index": 8,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Beholders' Sanctuary": {
+		"index": 9,
+		"visiting_scheme": [
+			[0, 0],
+			[0, 1]
+		]
+	},
+	"Black Market": {
+		"index": 10,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Black Tower": {
+		"index": 11,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Boat": {
+		"index": 12,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Border Gate": {
+		"index": 13,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Border Guard": {
+		"index": 14,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Buoy": {
+		"index": 15,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Campfire": {
+		"index": 16,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Cannon Yard": {
+		"index": 17,
+		"visiting_scheme": [
+			[-1, 0, -1],
+			[0, 0, 1]
+		]
+	},
+	"Cartographer": {
+		"index": 18,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Churchyard": {
+		"index": 19,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Colosseum of the Magi": {
+		"index": 20,
+		"visiting_scheme": [
+			[0, 0, 0],
+			[0, 1, 0]
+		]
+	},
+	"Corpse": {
+		"index": 21,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Cover of Darkness": {
+		"index": 22,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Creature dwelling": {
+		"index": 23
+	},
+	"Crypt": {
+		"index": 24,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Crystal Cavern": {
+		"index": 25,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Cyclops Stockpile": {
+		"index": 26,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Den of Thieves": {
+		"index": 27,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Derelict Ship": {
+		"index": 28,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Derrick": {
+		"index": 29,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Dragon Fly Hive": {
+		"index": 30,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Dragon Utopia": {
+		"index": 31,
+		"visiting_scheme": [
+			[-1, -1, 0, 0, 0, 0],
+			[0, 0, 0, 0, 0, -1],
+			[-1, -1, 0, 0, 1, -1]
+		]
+	},
+	"Dwarven Treasury": {
+		"index": 32,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Event": {
+		"index": 33
+	},
+	"Experimental Shop": {
+		"index": 34,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Eye of the Magi": {
+		"index": 35,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Faerie Ring": {
+		"index": 36,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Flotsam": {
+		"index": 37,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Fountain of Fortune": {
+		"index": 38,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Fountain of Youth": {
+		"index": 39,
+		"visiting_scheme": [
+			[0, 0],
+			[0, 1]
+		]
+	},
+	"Freelancer's Guild": {
+		"index": 40,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Garden of Revelation": {
+		"index": 41,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Garrison": {
+		"index": 42,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Gazebo": {
+		"index": 43,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Gem Pond": {
+		"index": 44,
+		"visiting_scheme": [
+			[0, 0, 0],
+			[0, 1, 0]
+		]
+	},
+	"Gold Mine": {
+		"index": 45,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Grave": {
+		"index": 46,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Griffin Conservatory": {
+		"index": 47,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Hermit's Shack": {
+		"index": 48,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Hill Fort (New)": {
+		"index": 49,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Hill Fort": {
+		"index": 50,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Hut of the Magi": {
+		"index": 51,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Idol of Fortune": {
+		"index": 52,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Imp Cache": {
+		"index": 53,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Ivory Tower": {
+		"index": 54,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Jetsam": {
+		"index": 55,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Junkman": {
+		"index": 56,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Keymaster's Tent": {
+		"index": 57,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Lean To": {
+		"index": 58,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Learning Stone": {
+		"index": 59,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Library of Enlightenment": {
+		"index": 60,
+		"visiting_scheme": [
+			[-1, -1, 0, 0],
+			[0, 0, 1, 0]
+		]
+	},
+	"Lighthouse": {
+		"index": 61,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Magic Spring": {
+		"index": 62,
+		"visiting_scheme": [
+			[1, 1]
+		]
+	},
+	"Magic Well": {
+		"index": 63,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Mansion": {
+		"index": 64,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Marletto Tower": {
+		"index": 65,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Medusa Stores": {
+		"index": 66,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Mercenary Camp": {
+		"index": 67,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Mermaids": {
+		"index": 68,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Mineral Spring": {
+		"index": 69,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Monolith One Way Entrance": {
+		"index": 70,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Monolith One Way Exit": {
+		"index": 71,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[0]
+		]
+	},
+	"Monolith Two Way": {
+		"index": 72,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Mystical Garden": {
+		"index": 73,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Naga Bank": {
+		"index": 74,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Oasis": {
+		"index": 75,
+		"visiting_scheme": [
+			[0, 0],
+			[1, 1]
+		]
+	},
+	"Obelisk": {
+		"index": 76,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Observation Tower": {
+		"index": 77,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Observatory": {
+		"index": 78,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Ocean Bottle": {
+		"index": 79,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Ore Pit": {
+		"index": 80,
+		"visiting_scheme": [
+			[0, 0, 0],
+			[0, 1, 0]
+		]
+	},
+	"Prison": {
+		"index": 81,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Pandora's Box": {
+		"index": 82,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Pillar of Fire": {
+		"index": 83,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Pirate Cavern": {
+		"index": 84,
+		"visiting_scheme": [
+			[0, 0, 0],
+			[0, 1, 0]
+		]
+	},
+	"Portal One Way Entrance": {
+		"index": 85,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Portal One Way Exit": {
+		"index": 86,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Portal Two Way": {
+		"index": 87,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Prospector": {
+		"index": 88,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Pyramid": {
+		"index": 89,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Quest Guard": {
+		"index": 90,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Rally Flag": {
+		"index": 91,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Red Tower": {
+		"index": 92,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Redwood Observatory": {
+		"index": 93,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Refugee Camp": {
+		"index": 94,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Ruins": {
+		"index": 96,
+		"visiting_scheme": [
+			[-1, 0, -1],
+			[0, 1, 0]
+		]
+	},
+	"Sanctuary": {
+		"index": 97,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Sawmill": {
+		"index": 98,
+		"visiting_scheme": [
+			[-1, -1, 0, 0],
+			[0, 0, 1, 0]
+		]
+	},
+	"Scholar": {
+		"index": 99,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"School of Magic": {
+		"index": 100,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"School of War": {
+		"index": 101,
+		"visiting_scheme": [
+			[-1, 0, 0, -1],
+			[0, 0, 0, 0],
+			[-1, 0, 1, -1]
+		]
+	},
+	"Sea Barrel": {
+		"index": 102,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Sea Chest": {
+		"index": 103,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Seafaring Academy": {
+		"index": 104,
+		"visiting_scheme": [
+			[-1, 0, 0, -1],
+			[0, 1, 0, 0]
+		]
+	},
+	"Seer's Hut": {
+		"index": 105,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Shipwreck Survivor": {
+		"index": 106,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Shipwreck": {
+		"index": 107
+	},
+	"Shipyard": {
+		"index": 108,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Shrine of Magic Incantation": {
+		"index": 109,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Shrine of Magic Gesture": {
+		"index": 110,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Shrine of Magic Mystery": {
+		"index": 111,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Shrine of Magic Thought": {
+		"index": 112,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Sign": {
+		"index": 113,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Sirens": {
+		"index": 114,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Skeleton Transformer": {
+		"index": 115,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Spell Scroll": {
+		"index": 116,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Spit": {
+		"index": 117,
+		"visiting_scheme": [
+			[-1, 0, 0],
+			[0, 1, 0]
+		]
+	},
+	"Stables": {
+		"index": 118,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Star Axis": {
+		"index": 119,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Subterranean Gate": {
+		"index": 120,
+		"visiting_scheme": [
+			[-1, 0, -1],
+			[0, 1, 0]
+		]
+	},
+	"Sulfur Dune": {
+		"index": 121,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Swan Pond": {
+		"index": 122,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Tavern": {
+		"index": 123,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Temple of Loyalty": {
+		"index": 124,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Temple of the Sea": {
+		"index": 125,
+		"visiting_scheme": [
+			[0, 0, 0],
+			[0, 0, 0],
+			[0, 1, 0]
+		]
+	},
+	"Temple": {
+		"index": 126,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Town Gate": {
+		"index": 127,
+		"visiting_scheme": [
+			[0, 1, 0]
+		]
+	},
+	"Town": {
+		"index": 128,
+		"visiting_scheme": [
+			[-1, 0, 0, 0, -1],
+			[0, 0, 0, 0, 0],
+			[0, 0, 1, 0, 0]
+		]
+	},
+	"Trading Post": {
+		"index": 129,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Trailblazer": {
+		"index": 130,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Treasure Chest": {
+		"index": 131,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Tree of Knowledge": {
+		"index": 132,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"University": {
+		"index": 133,
+		"visiting_scheme": [
+			[0, 0, 0, -1],
+			[0, 0, 0, 0],
+			[0, 0, 1, 0]
+		]
+	},
+	"Vial of Mana": {
+		"index": 134,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Wagon": {
+		"index": 135,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"War Machine Factory": {
+		"index": 136,
+		"visiting_scheme": [
+			[1, 0]
+		]
+	},
+	"Warlock's Lab": {
+		"index": 137,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Warehouse of Crystal": {
+		"index": 138,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Warehouse of Gem": {
+		"index": 139,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Warehouse of Gold": {
+		"index": 140,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Warehouse of Mercury": {
+		"index": 141,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Warehouse of Ore": {
+		"index": 142,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Warehouse of Sulfur": {
+		"index": 143,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Warehouse of Wood": {
+		"index": 144,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Warrior's Tomb": {
+		"index": 145,
+		"visiting_scheme": [
+			[0, 1]
+		]
+	},
+	"Water Wheel": {
+		"index": 146,
+		"visiting_scheme": [
+			[0, 0, 0],
+			[0, 0, 1]
+		]
+	},
+	"Watering Hole": {
+		"index": 147,
+		"visiting_scheme": [
+			[1, 1, 1, 1]
+		]
+	},
+	"Watering Place": {
+		"index": 148,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Whirlpool": {
+		"index": 149,
+		"visiting_scheme": [
+			[1, 1, 1],
+			[1, 1, 1]
+		]
+	},
+	"Windmill": {
+		"index": 150,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Witch Hut": {
+		"index": 151,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Wolf Raider Picket": {
+		"index": 152,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Gold": {
+		"index": 153,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Mercury": {
+		"index": 154,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Gems": {
+		"index": 155,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Sulfur": {
+		"index": 156,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Wood": {
+		"index": 157,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Ore": {
+		"index": 158,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Crystal": {
+		"index": 159,
+		"can_be_basis": true,
+		"visiting_scheme": [
+			[1]
+		]
+	},
+	"Pikeman": {
+		"index": 160,
+		"can_be_basis": true
+	},
+	"Halberdier": {
+		"index": 161,
+		"can_be_basis": true
+	},
+	"Archer": {"index": 162, "can_be_basis": true},
+	"Marksman": {"index": 163, "can_be_basis": true},
+	"Griffin": {"index": 164, "can_be_basis": true},
+	"Royal Griffin": {"index": 165, "can_be_basis": true},
+	"Swordsman": {"index": 166, "can_be_basis": true},
+	"Crusader": {"index": 167, "can_be_basis": true},
+	"Monk": {"index": 168, "can_be_basis": true},
+	"Zealot": {"index": 169, "can_be_basis": true},
+	"Cavalier": {"index": 170, "can_be_basis": true},
+	"Champion": {"index": 171, "can_be_basis": true},
+	"Angel": {"index": 172, "can_be_basis": true},
+	"Archangel": {"index": 173, "can_be_basis": true},
+	"Centaur": {"index": 174, "can_be_basis": true},
+	"Centaur Captain": {"index": 175, "can_be_basis": true},
+	"Dwarf": {"index": 176, "can_be_basis": true},
+	"Battle Dwarf": {"index": 177, "can_be_basis": true},
+	"Wood Elf": {"index": 178, "can_be_basis": true},
+	"Grand Elf": {"index": 179, "can_be_basis": true},
+	"Pegasus": {"index": 180, "can_be_basis": true},
+	"Silver Pegasus": {"index": 181, "can_be_basis": true},
+	"Dendroid Guard": {"index": 182, "can_be_basis": true},
+	"Dendroid Soldier": {"index": 183, "can_be_basis": true},
+	"Unicorn": {"index": 184, "can_be_basis": true},
+	"War Unicorn": {"index": 185, "can_be_basis": true},
+	"Green Dragon": {"index": 186, "can_be_basis": true},
+	"Gold Dragon": {"index": 187, "can_be_basis": true},
+	"Gremlin": {"index": 188, "can_be_basis": true},
+	"Master Gremlin": {"index": 189, "can_be_basis": true},
+	"Stone Gargoyle": {"index": 190, "can_be_basis": true},
+	"Obsidian Gargoyle": {"index": 191, "can_be_basis": true},
+	"Stone Golem": {"index": 192, "can_be_basis": true},
+	"Iron Golem": {"index": 193, "can_be_basis": true},
+	"Mage": {"index": 194, "can_be_basis": true},
+	"Arch Mage": {"index": 195, "can_be_basis": true},
+	"Genie": {"index": 196, "can_be_basis": true},
+	"Master Genie": {"index": 197, "can_be_basis": true},
+	"Naga": {"index": 198, "can_be_basis": true},
+	"Naga Queen": {"index": 199, "can_be_basis": true},
+	"Giant": {"index": 200, "can_be_basis": true},
+	"Titan": {"index": 201, "can_be_basis": true},
+	"Skeleton": {"index": 202, "can_be_basis": true},
+	"Skeleton Warrior": {"index": 203, "can_be_basis": true},
+	"Walking Dead": {"index": 204, "can_be_basis": true},
+	"Zombie": {"index": 205, "can_be_basis": true},
+	"Wight": {"index": 206, "can_be_basis": true},
+	"Wraith": {"index": 207, "can_be_basis": true},
+	"Vampire": {"index": 208, "can_be_basis": true},
+	"Vampire Lord": {"index": 209, "can_be_basis": true},
+	"Lich": {"index": 210, "can_be_basis": true},
+	"Power Lich": {"index": 211, "can_be_basis": true},
+	"Black Knight": {"index": 212, "can_be_basis": true},
+	"Dread Knight": {"index": 213, "can_be_basis": true},
+	"Bone Dragon": {"index": 214, "can_be_basis": true},
+	"Ghost Dragon": {"index": 215, "can_be_basis": true},
+	"Troglodyte": {"index": 216, "can_be_basis": true},
+	"Infernal Troglodyte": {"index": 217, "can_be_basis": true},
+	"Harpy": {"index": 218, "can_be_basis": true},
+	"Harpy Hag": {"index": 219, "can_be_basis": true},
+	"Beholder": {"index": 220, "can_be_basis": true},
+	"Evil Eye": {"index": 221, "can_be_basis": true},
+	"Medusa": {"index": 222, "can_be_basis": true},
+	"Medusa Queen": {"index": 223, "can_be_basis": true},
+	"Minotaur": {"index": 224, "can_be_basis": true},
+	"Minotaur King": {"index": 225, "can_be_basis": true},
+	"Manticore": {"index": 226, "can_be_basis": true},
+	"Scorpicore": {"index": 227, "can_be_basis": true},
+	"Red Dragon": {"index": 228, "can_be_basis": true},
+	"Black Dragon": {"index": 229, "can_be_basis": true},
+	"Imp": {"index": 230, "can_be_basis": true},
+	"Familiar": {"index": 231, "can_be_basis": true},
+	"Gog": {"index": 232, "can_be_basis": true},
+	"Magog": {"index": 233, "can_be_basis": true},
+	"Hell Hound": {"index": 234, "can_be_basis": true},
+	"Cerberus": {"index": 235, "can_be_basis": true},
+	"Demon": {"index": 236, "can_be_basis": true},
+	"Horned Demon": {"index": 237, "can_be_basis": true},
+	"Pit Fiend": {"index": 238, "can_be_basis": true},
+	"Pit Lord": {"index": 239, "can_be_basis": true},
+	"Efreet": {"index": 240, "can_be_basis": true},
+	"Efreet Sultan": {"index": 241, "can_be_basis": true},
+	"Devil": {"index": 242, "can_be_basis": true},
+	"Archdevil": {"index": 243, "can_be_basis": true},
+	"Gnoll": {"index": 244, "can_be_basis": true},
+	"Gnoll Marauder": {"index": 245, "can_be_basis": true},
+	"Lizardman": {"index": 246, "can_be_basis": true},
+	"Lizard Warrior": {"index": 247, "can_be_basis": true},
+	"Serpent Fly": {"index": 248, "can_be_basis": true},
+	"Dragon Fly": {"index": 249, "can_be_basis": true},
+	"Basilisk": {"index": 250, "can_be_basis": true},
+	"Greater Basilisk": {"index": 251, "can_be_basis": true},
+	"Gorgon": {"index": 252, "can_be_basis": true},
+	"Mighty Gorgon": {"index": 253, "can_be_basis": true},
+	"Wyvern": {"index": 254, "can_be_basis": true},
+	"Wyvern Monarch": {"index": 255, "can_be_basis": true},
+	"Hydra": {"index": 256, "can_be_basis": true},
+	"Chaos Hydra": {"index": 257, "can_be_basis": true},
+	"Goblin": {"index": 258, "can_be_basis": true},
+	"Hobgoblin": {"index": 259, "can_be_basis": true},
+	"Wolf Rider": {"index": 260, "can_be_basis": true},
+	"Wolf Raider": {"index": 261, "can_be_basis": true},
+	"Orc": {"index": 262, "can_be_basis": true},
+	"Orc Chieftain": {"index": 263, "can_be_basis": true},
+	"Ogre": {"index": 264, "can_be_basis": true},
+	"Ogre Mage": {"index": 265, "can_be_basis": true},
+	"Roc": {"index": 266, "can_be_basis": true},
+	"Thunderbird": {"index": 267, "can_be_basis": true},
+	"Cyclops": {"index": 268, "can_be_basis": true},
+	"Cyclops King": {"index": 269, "can_be_basis": true},
+	"Behemoth": {"index": 270, "can_be_basis": true},
+	"Ancient Behemoth": {"index": 271, "can_be_basis": true},
+	"Pixie": {"index": 272, "can_be_basis": true},
+	"Sprite": {"index": 273, "can_be_basis": true},
+	"Air Elemental": {"index": 274, "can_be_basis": true},
+	"Storm Elemental": {"index": 275, "can_be_basis": true},
+	"Water Elemental": {"index": 276, "can_be_basis": true},
+	"Ice Elemental": {"index": 277, "can_be_basis": true},
+	"Fire Elemental": {"index": 278, "can_be_basis": true},
+	"Energy Elemental": {"index": 279, "can_be_basis": true},
+	"Earth Elemental": {"index": 280, "can_be_basis": true},
+	"Magma Elemental": {"index": 281, "can_be_basis": true},
+	"Psychic Elemental": {"index": 282, "can_be_basis": true},
+	"Magic Elemental": {"index": 283, "can_be_basis": true},
+	"Firebird": {"index": 284, "can_be_basis": true},
+	"Phoenix": {"index": 285, "can_be_basis": true},
+	"Peasant": {"index": 286, "can_be_basis": true},
+	"Halfling": {"index": 287, "can_be_basis": true},
+	"Boar": {"index": 288, "can_be_basis": true},
+	"Rogue": {"index": 289, "can_be_basis": true},
+	"Leprechaun": {"index": 290, "can_be_basis": true},
+	"Nomad": {"index": 291, "can_be_basis": true},
+	"Mummy": {"index": 292, "can_be_basis": true},
+	"Gold Golem": {"index": 293, "can_be_basis": true},
+	"Fangarm": {"index": 294, "can_be_basis": true},
+	"Sharpshooter": {"index": 295, "can_be_basis": true},
+	"Satyr": {"index": 296, "can_be_basis": true},
+	"Steel Golem": {"index": 297, "can_be_basis": true},
+	"Diamond Golem": {"index": 298, "can_be_basis": true},
+	"Troll": {"index": 299, "can_be_basis": true},
+	"Enchanter": {"index": 300, "can_be_basis": true},
+	"Faerie Dragon": {"index": 301, "can_be_basis": true},
+	"Rust Dragon": {"index": 302, "can_be_basis": true},
+	"Crystal Dragon": {"index": 303, "can_be_basis": true},
+	"Azure Dragon": {"index": 304, "can_be_basis": true},
+	"Nymph": {"index": 305, "can_be_basis": true},
+	"Oceanid": {"index": 306, "can_be_basis": true},
+	"Crew Mate": {"index": 307, "can_be_basis": true},
+	"Seaman": {"index": 308, "can_be_basis": true},
+	"Pirate": {"index": 309, "can_be_basis": true},
+	"Corsair": {"index": 310, "can_be_basis": true},
+	"Sea Dog": {"index": 311, "can_be_basis": true},
+	"Stormbird": {"index": 312, "can_be_basis": true},
+	"Ayssid": {"index": 313, "can_be_basis": true},
+	"Sea Witch": {"index": 314, "can_be_basis": true},
+	"Sorceress": {"index": 315, "can_be_basis": true},
+	"Nix": {"index": 316, "can_be_basis": true},
+	"Nix Warrior": {"index": 317, "can_be_basis": true},
+	"Sea Serpent": {"index": 318, "can_be_basis": true},
+	"Haspid": {"index": 319, "can_be_basis": true}
+}

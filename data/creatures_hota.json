@@ -1,0 +1,2842 @@
+{
+    "Pikeman": {
+        "town": 0,
+        "level": "1",
+        "portrait": "images/creatures/pikeman.jpg",
+        "view": "images/creatures/pikeman_view.jpg",
+        "attack": 4,
+        "defense": 5,
+        "damage_min": 1,
+        "damage_max": 3,
+        "health": 10,
+        "speed": 4,
+        "growth": 14,
+        "value": 80,
+        "cost": {
+            "Gold": 60
+        },
+        "shots": 0
+    },
+    "Halberdier": {
+        "town": 0,
+        "level": "1+",
+        "portrait": "images/creatures/halberdier.jpg",
+        "view": "images/creatures/halberdier_view.jpg",
+        "attack": 6,
+        "defense": 5,
+        "damage_min": 2,
+        "damage_max": 3,
+        "health": 10,
+        "speed": 5,
+        "growth": 14,
+        "value": 115,
+        "cost": {
+            "Gold": 75
+        },
+        "shots": 0
+    },
+    "Archer": {
+        "town": 0,
+        "level": 2,
+        "portrait": "images/creatures/archer.jpg",
+        "view": "images/creatures/archer_view.jpg",
+        "attack": 6,
+        "defense": 3,
+        "damage_min": 2,
+        "damage_max": 3,
+        "health": 10,
+        "speed": 4,
+        "growth": 9,
+        "value": 126,
+        "cost": {
+            "Gold": 100
+        },
+        "shots": 12
+    },
+    "Marksman": {
+        "town": 0,
+        "level": "2+",
+        "portrait": "images/creatures/marksman.jpg",
+        "view": "images/creatures/marksman_view.jpg",
+        "attack": 6,
+        "defense": 3,
+        "damage_min": 2,
+        "damage_max": 3,
+        "health": 10,
+        "speed": 6,
+        "growth": 9,
+        "value": 184,
+        "cost": {
+            "Gold": 150
+        },
+        "shots": 24
+    },
+    "Griffin": {
+        "town": 0,
+        "level": 3,
+        "portrait": "images/creatures/griffin.jpg",
+        "view": "images/creatures/griffin_view.jpg",
+        "attack": 8,
+        "defense": 8,
+        "damage_min": 3,
+        "damage_max": 6,
+        "health": 25,
+        "speed": 6,
+        "growth": 7,
+        "value": 351,
+        "cost": {
+            "Gold": 200
+        },
+        "shots": 0
+    },
+    "Royal Griffin": {
+        "town": 0,
+        "level": "3+",
+        "portrait": "images/creatures/royal_griffin.jpg",
+        "view": "images/creatures/royal_griffin_view.jpg",
+        "attack": 9,
+        "defense": 9,
+        "damage_min": 3,
+        "damage_max": 6,
+        "health": 25,
+        "speed": 9,
+        "growth": 7,
+        "value": 448,
+        "cost": {
+            "Gold": 240
+        },
+        "shots": 0
+    },
+    "Swordsman": {
+        "town": 0,
+        "level": "4",
+        "portrait": "images/creatures/swordsman.jpg",
+        "view": "images/creatures/swordsman_view.jpg",
+        "attack": 10,
+        "defense": 12,
+        "damage_min": 6,
+        "damage_max": 9,
+        "health": 35,
+        "speed": 5,
+        "growth": 4,
+        "value": 445,
+        "cost": {
+            "Gold": 300
+        },
+        "shots": 0
+    },
+    "Crusader": {
+        "town": 0,
+        "level": "4+",
+        "portrait": "images/creatures/crusader.jpg",
+        "view": "images/creatures/crusader_view.jpg",
+        "attack": 12,
+        "defense": 12,
+        "damage_min": 7,
+        "damage_max": 10,
+        "health": 35,
+        "speed": 6,
+        "growth": 4,
+        "value": 588,
+        "cost": {
+            "Gold": 400
+        },
+        "shots": 0
+    },
+    "Monk": {
+        "town": 0,
+        "level": 5,
+        "portrait": "images/creatures/monk.jpg",
+        "view": "images/creatures/monk_view.jpg",
+        "attack": 12,
+        "defense": 7,
+        "damage_min": 10,
+        "damage_max": 12,
+        "health": 30,
+        "speed": 5,
+        "growth": 3,
+        "value": 485,
+        "cost": {
+            "Gold": 400
+        },
+        "shots": 12
+    },
+    "Zealot": {
+        "town": 0,
+        "level": "5+",
+        "portrait": "images/creatures/zealot.jpg",
+        "view": "images/creatures/zealot_view.jpg",
+        "attack": 12,
+        "defense": 10,
+        "damage_min": 10,
+        "damage_max": 12,
+        "health": 30,
+        "speed": 7,
+        "growth": 3,
+        "value": 750,
+        "cost": {
+            "Gold": 450
+        },
+        "shots": 0
+    },
+    "Cavalier": {
+        "town": 0,
+        "level": 6,
+        "portrait": "images/creatures/cavalier.jpg",
+        "view": "images/creatures/cavalier_view.jpg",
+        "attack": 15,
+        "defense": 15,
+        "damage_min": 15,
+        "damage_max": 25,
+        "health": 100,
+        "speed": 7,
+        "growth": 2,
+        "value": 1946,
+        "cost": {
+            "Gold": 1000
+        },
+        "shots": 0
+    },
+    "Champion": {
+        "town": 0,
+        "level": "6+",
+        "portrait": "images/creatures/champion.jpg",
+        "view": "images/creatures/champion_view.jpg",
+        "attack": 16,
+        "defense": 16,
+        "damage_min": 20,
+        "damage_max": 25,
+        "health": 100,
+        "speed": 9,
+        "growth": 2,
+        "value": 2100,
+        "cost": {
+            "Gold": 1200
+        },
+        "shots": 0
+    },
+    "Angel": {
+        "town": 0,
+        "level": 7,
+        "portrait": "images/creatures/angel.jpg",
+        "view": "images/creatures/angel_view.jpg",
+        "attack": 20,
+        "defense": 20,
+        "damage_min": 50,
+        "damage_max": 50,
+        "health": 200,
+        "speed": 12,
+        "growth": 1,
+        "value": 5019,
+        "cost": {"Gold": 3000, "Gems": 1},
+        "shots": 0
+    },
+    "Archangel": {
+        "town": 0,
+        "level": "7+",
+        "portrait": "images/creatures/archangel.jpg",
+        "view": "images/creatures/archangel_view.jpg",
+        "attack": 30,
+        "defense": 30,
+        "damage_min": 50,
+        "damage_max": 50,
+        "health": 250,
+        "speed": 18,
+        "growth": 1,
+        "value": 8776,
+        "cost": {"Gold": 5000, "Gems": 3},
+        "shots": 0
+    },
+    "Centaur": {
+        "town": 1,
+        "level": 1,
+        "portrait": "images/creatures/centaur.jpg",
+        "view": "images/creatures/centaur_view.jpg",
+        "attack": 5,
+        "defense": 3,
+        "damage_min": 2,
+        "damage_max": 3,
+        "health": 8,
+        "speed": 6,
+        "growth": 14,
+        "value": 100,
+        "cost": {
+            "Gold": 70
+        },
+        "shots": 0
+    },
+    "Centaur Captain": {
+        "town": 1,
+        "level": "1+",
+        "portrait": "images/creatures/centaur_captain.jpg",
+        "view": "images/creatures/centaur_captain_view.jpg",
+        "attack": 6,
+        "defense": 3,
+        "damage_min": 2,
+        "damage_max": 3,
+        "health": 10,
+        "speed": 8,
+        "growth": 14,
+        "value": 138,
+        "cost": {
+            "Gold": 90
+        },
+        "shots": 0
+    },
+    "Dwarf": {
+        "town": 1,
+        "level": 2,
+        "portrait": "images/creatures/dwarf.jpg",
+        "view": "images/creatures/dwarf_view.jpg",
+        "attack": 6,
+        "defense": 7,
+        "damage_min": 2,
+        "damage_max": 4,
+        "health": 20,
+        "speed": 3,
+        "growth": 8,
+        "value": 138,
+        "cost": {
+            "Gold": 120
+        },
+        "shots": 0
+    },
+    "Battle Dwarf": {
+        "town": 1,
+        "level": "2+",
+        "portrait": "images/creatures/battle_dwarf.jpg",
+        "view": "images/creatures/battle_dwarf_view.jpg",
+        "attack": 7,
+        "defense": 7,
+        "damage_min": 2,
+        "damage_max": 4,
+        "health": 20,
+        "speed": 5,
+        "growth": 8,
+        "value": 209,
+        "cost": {
+            "Gold": 150
+        },
+        "shots": 0
+    },
+    "Wood Elf": {
+        "town": 1,
+        "level": 3,
+        "portrait": "images/creatures/wood_elf.jpg",
+        "view": "images/creatures/wood_elf_view.jpg",
+        "attack": 9,
+        "defense": 5,
+        "damage_min": 3,
+        "damage_max": 5,
+        "health": 15,
+        "speed": 6,
+        "growth": 7,
+        "value": 234,
+        "cost": {
+            "Gold": 200
+        },
+        "shots": 24
+    },
+    "Grand Elf": {
+        "town": 1,
+        "level": "3+",
+        "portrait": "images/creatures/grand_elf.jpg",
+        "view": "images/creatures/grand_elf_view.jpg",
+        "attack": 9,
+        "defense": 5,
+        "damage_min": 3,
+        "damage_max": 5,
+        "health": 15,
+        "speed": 7,
+        "growth": 7,
+        "value": 331,
+        "cost": {
+            "Gold": 225
+        },
+        "shots": 24
+    },
+    "Pegasus": {
+        "town": 1,
+        "level": 4,
+        "portrait": "images/creatures/pegasus.jpg",
+        "view": "images/creatures/pegasus_view.jpg",
+        "attack": 9,
+        "defense": 8,
+        "damage_min": 5,
+        "damage_max": 9,
+        "health": 30,
+        "speed": 8,
+        "growth": 5,
+        "value": 518,
+        "cost": {
+            "Gold": 250
+        },
+        "shots": 0
+    },
+    "Silver Pegasus": {
+        "town": 1,
+        "level": "4+",
+        "portrait": "images/creatures/silver_pegasus.jpg",
+        "view": "images/creatures/silver_pegasus_view.jpg",
+        "attack": 9,
+        "defense": 10,
+        "damage_min": 5,
+        "damage_max": 9,
+        "health": 30,
+        "speed": 12,
+        "growth": 5,
+        "value": 532,
+        "cost": {
+            "Gold": 275
+        },
+        "shots": 0
+    },
+    "Dendroid Guard": {
+        "town": 1,
+        "level": 5,
+        "portrait": "images/creatures/dendroid_guard.jpg",
+        "view": "images/creatures/dendroid_guard_view.jpg",
+        "attack": 9,
+        "defense": 12,
+        "damage_min": 10,
+        "damage_max": 14,
+        "health": 55,
+        "speed": 3,
+        "growth": 3,
+        "value": 517,
+        "cost": {
+            "Gold": 350
+        },
+        "shots": 0
+    },
+    "Dendroid Soldier": {
+        "town": 1,
+        "level": "5+",
+        "portrait": "images/creatures/dendroid_soldier.jpg",
+        "view": "images/creatures/dendroid_soldier_view.jpg",
+        "attack": 9,
+        "defense": 12,
+        "damage_min": 10,
+        "damage_max": 14,
+        "health": 65,
+        "speed": 4,
+        "growth": 3,
+        "value": 803,
+        "cost": {
+            "Gold": 425
+        },
+        "shots": 0
+    },
+    "Unicorn": {
+        "town": 1,
+        "level": 6,
+        "portrait": "images/creatures/unicorn.jpg",
+        "view": "images/creatures/unicorn_view.jpg",
+        "attack": 15,
+        "defense": 14,
+        "damage_min": 18,
+        "damage_max": 22,
+        "health": 90,
+        "speed": 7,
+        "growth": 2,
+        "value": 1806,
+        "cost": {
+            "Gold": 850
+        },
+        "shots": 0
+    },
+    "War Unicorn": {
+        "town": 1,
+        "level": "6+",
+        "portrait": "images/creatures/war_unicorn.jpg",
+        "view": "images/creatures/war_unicorn_view.jpg",
+        "attack": 15,
+        "defense": 14,
+        "damage_min": 18,
+        "damage_max": 22,
+        "health": 110,
+        "speed": 9,
+        "growth": 2,
+        "value": 2030,
+        "cost": {
+            "Gold": 950
+        },
+        "shots": 0
+    },
+    "Green Dragon": {
+        "town": 1,
+        "level": 7,
+        "portrait": "images/creatures/green_dragon.jpg",
+        "view": "images/creatures/green_dragon_view.jpg",
+        "attack": 18,
+        "defense": 18,
+        "damage_min": 40,
+        "damage_max": 50,
+        "health": 180,
+        "speed": 10,
+        "growth": 1,
+        "value": 4872,
+        "cost": {"Gold": 2400, "Crystal": 1},
+        "shots": 0
+    },
+    "Gold Dragon": {
+        "town": 1,
+        "level": "7+",
+        "portrait": "images/creatures/gold_dragon.jpg",
+        "view": "images/creatures/gold_dragon_view.jpg",
+        "attack": 27,
+        "defense": 27,
+        "damage_min": 40,
+        "damage_max": 50,
+        "health": 250,
+        "speed": 16,
+        "growth": 1,
+        "value": 8613,
+        "cost": {"Gold": 4000, "Crystal": 2},
+        "shots": 0
+    },
+    "Gremlin": {
+        "town": 2,
+        "level": 1,
+        "portrait": "images/creatures/gremlin.jpg",
+        "view": "images/creatures/gremlin_view.jpg",
+        "attack": 3,
+        "defense": 3,
+        "damage_min": 1,
+        "damage_max": 2,
+        "health": 4,
+        "speed": 4,
+        "growth": 16,
+        "value": 44,
+        "cost": {
+            "Gold": 30
+        },
+        "shots": 0
+    },
+    "Master Gremlin": {
+        "town": 2,
+        "level": "1+",
+        "portrait": "images/creatures/master_gremlin.jpg",
+        "view": "images/creatures/master_gremlin_view.jpg",
+        "attack": 4,
+        "defense": 4,
+        "damage_min": 1,
+        "damage_max": 2,
+        "health": 4,
+        "speed": 5,
+        "growth": 16,
+        "value": 66,
+        "cost": {
+            "Gold": 40
+        },
+        "shots": 8
+    },
+    "Stone Gargoyle": {
+        "town": 2,
+        "level": 2,
+        "portrait": "images/creatures/stone_gargoyle.jpg",
+        "view": "images/creatures/stone_gargoyle_view.jpg",
+        "attack": 6,
+        "defense": 6,
+        "damage_min": 2,
+        "damage_max": 3,
+        "health": 16,
+        "speed": 6,
+        "growth": 9,
+        "value": 165,
+        "cost": {
+            "Gold": 130
+        },
+        "shots": 0
+    },
+    "Obsidian Gargoyle": {
+        "town": 2,
+        "level": "2+",
+        "portrait": "images/creatures/obsidian_gargoyle.jpg",
+        "view": "images/creatures/obsidian_gargoyle_view.jpg",
+        "attack": 7,
+        "defense": 7,
+        "damage_min": 2,
+        "damage_max": 3,
+        "health": 16,
+        "speed": 9,
+        "growth": 9,
+        "value": 201,
+        "cost": {
+            "Gold": 160
+        },
+        "shots": 0
+    },
+    "Stone Golem": {
+        "town": 2,
+        "level": 3,
+        "portrait": "images/creatures/stone_golem.jpg",
+        "view": "images/creatures/stone_golem_view.jpg",
+        "attack": 7,
+        "defense": 10,
+        "damage_min": 4,
+        "damage_max": 5,
+        "health": 30,
+        "speed": 3,
+        "growth": 6,
+        "value": 250,
+        "cost": {
+            "Gold": 150
+        },
+        "shots": 0
+    },
+    "Iron Golem": {
+        "town": 2,
+        "level": "3+",
+        "portrait": "images/creatures/iron_golem.jpg",
+        "view": "images/creatures/iron_golem_view.jpg",
+        "attack": 9,
+        "defense": 10,
+        "damage_min": 4,
+        "damage_max": 5,
+        "health": 35,
+        "speed": 5,
+        "growth": 6,
+        "value": 412,
+        "cost": {
+            "Gold": 200
+        },
+        "shots": 0
+    },
+    "Mage": {
+        "town": 2,
+        "level": 4,
+        "portrait": "images/creatures/mage.jpg",
+        "view": "images/creatures/mage_view.jpg",
+        "attack": 11,
+        "defense": 8,
+        "damage_min": 7,
+        "damage_max": 9,
+        "health": 25,
+        "speed": 5,
+        "growth": 4,
+        "value": 570,
+        "cost": {
+            "Gold": 350
+        },
+        "shots": 24
+    },
+    "Arch Mage": {
+        "town": 2,
+        "level": "4+",
+        "portrait": "images/creatures/arch_mage.jpg",
+        "view": "images/creatures/arch_mage_view.jpg",
+        "attack": 12,
+        "defense": 9,
+        "damage_min": 7,
+        "damage_max": 9,
+        "health": 30,
+        "speed": 7,
+        "growth": 4,
+        "value": 680,
+        "cost": {
+            "Gold": 450
+        },
+        "shots": 24
+    },
+    "Genie": {
+        "town": 2,
+        "level": 5,
+        "portrait": "images/creatures/genie.jpg",
+        "view": "images/creatures/genie_view.jpg",
+        "attack": 12,
+        "defense": 12,
+        "damage_min": 13,
+        "damage_max": 16,
+        "health": 40,
+        "speed": 7,
+        "growth": 3,
+        "value": 884,
+        "cost": {
+            "Gold": 550
+        },
+        "shots": 0
+    },
+    "Master Genie": {
+        "town": 2,
+        "level": "5+",
+        "portrait": "images/creatures/master_genie.jpg",
+        "view": "images/creatures/master_genie_view.jpg",
+        "attack": 12,
+        "defense": 12,
+        "damage_min": 13,
+        "damage_max": 16,
+        "health": 40,
+        "speed": 11,
+        "growth": 3,
+        "value": 942,
+        "cost": {
+            "Gold": 600
+        },
+        "shots": 0
+    },
+    "Naga": {
+        "town": 2,
+        "level": 6,
+        "portrait": "images/creatures/naga.jpg",
+        "view": "images/creatures/naga_view.jpg",
+        "attack": 16,
+        "defense": 13,
+        "damage_min": 20,
+        "damage_max": 20,
+        "health": 110,
+        "speed": 5,
+        "growth": 2,
+        "value": 2016,
+        "cost": {
+            "Gold": 1100
+        },
+        "shots": 0
+    },
+    "Naga Queen": {
+        "town": 2,
+        "level": "6+",
+        "portrait": "images/creatures/naga_queen.jpg",
+        "view": "images/creatures/naga_queen_view.jpg",
+        "attack": 16,
+        "defense": 13,
+        "damage_min": 30,
+        "damage_max": 30,
+        "health": 110,
+        "speed": 7,
+        "growth": 2,
+        "value": 2840,
+        "cost": {
+            "Gold": 1600
+        },
+        "shots": 0
+    },
+    "Giant": {
+        "town": 2,
+        "level": 7,
+        "portrait": "images/creatures/giant.jpg",
+        "view": "images/creatures/giant_view.jpg",
+        "attack": 19,
+        "defense": 16,
+        "damage_min": 40,
+        "damage_max": 60,
+        "health": 150,
+        "speed": 7,
+        "growth": 1,
+        "value": 3718,
+        "cost": {"Gold": 2000, "Gems": 1},
+        "shots": 0
+    },
+    "Titan": {
+        "town": 2,
+        "level": "7+",
+        "portrait": "images/creatures/titan.jpg",
+        "view": "images/creatures/titan_view.jpg",
+        "attack": 24,
+        "defense": 24,
+        "damage_min": 40,
+        "damage_max": 60,
+        "health": 300,
+        "speed": 11,
+        "growth": 1,
+        "value": 7500,
+        "cost": {"Gold": 5000, "Gems": 1},
+        "shots": 24
+    },
+    "Skeleton": {
+        "town": 4,
+        "level": 1,
+        "portrait": "images/creatures/skeleton.jpg",
+        "view": "images/creatures/skeleton_view.jpg",
+        "attack": 5,
+        "defense": 4,
+        "damage_min": 1,
+        "damage_max": 3,
+        "health": 6,
+        "speed": 4,
+        "growth": 12,
+        "value": 60,
+        "cost": {
+            "Gold": 60
+        },
+        "shots": 0
+    },
+    "Skeleton Warrior": {
+        "town": 4,
+        "level": "1+",
+        "portrait": "images/creatures/skeleton_warrior.jpg",
+        "view": "images/creatures/skeleton_warrior_view.jpg",
+        "attack": 6,
+        "defense": 6,
+        "damage_min": 1,
+        "damage_max": 3,
+        "health": 6,
+        "speed": 5,
+        "growth": 12,
+        "value": 85,
+        "cost": {
+            "Gold": 70
+        },
+        "shots": 0
+    },
+    "Walking Dead": {
+        "town": 4,
+        "level": 2,
+        "portrait": "images/creatures/walking_dead.jpg",
+        "view": "images/creatures/walking_dead_view.jpg",
+        "attack": 5,
+        "defense": 5,
+        "damage_min": 2,
+        "damage_max": 3,
+        "health": 15,
+        "speed": 3,
+        "growth": 8,
+        "value": 98,
+        "cost": {
+            "Gold": 100
+        },
+        "shots": 0
+    },
+    "Zombie": {
+        "town": 4,
+        "level": "2+",
+        "portrait": "images/creatures/zombie.jpg",
+        "view": "images/creatures/zombie_view.jpg",
+        "attack": 5,
+        "defense": 5,
+        "damage_min": 2,
+        "damage_max": 3,
+        "health": 20,
+        "speed": 4,
+        "growth": 8,
+        "value": 128,
+        "cost": {
+            "Gold": 125
+        },
+        "shots": 0
+    },
+    "Wight": {
+        "town": 4,
+        "level": 3,
+        "portrait": "images/creatures/wight.jpg",
+        "view": "images/creatures/wight_view.jpg",
+        "attack": 7,
+        "defense": 7,
+        "damage_min": 3,
+        "damage_max": 5,
+        "health": 18,
+        "speed": 5,
+        "growth": 7,
+        "value": 252,
+        "cost": {
+            "Gold": 200
+        },
+        "shots": 0
+    },
+    "Wraith": {
+        "town": 4,
+        "level": "3+",
+        "portrait": "images/creatures/wraith.jpg",
+        "view": "images/creatures/wraith_view.jpg",
+        "attack": 7,
+        "defense": 7,
+        "damage_min": 3,
+        "damage_max": 5,
+        "health": 18,
+        "speed": 7,
+        "growth": 7,
+        "value": 315,
+        "cost": {
+            "Gold": 230
+        },
+        "shots": 0
+    },
+    "Vampire": {
+        "town": 4,
+        "level": 4,
+        "portrait": "images/creatures/vampire.jpg",
+        "view": "images/creatures/vampire_view.jpg",
+        "attack": 10,
+        "defense": 9,
+        "damage_min": 5,
+        "damage_max": 8,
+        "health": 30,
+        "speed": 6,
+        "growth": 4,
+        "value": 555,
+        "cost": {
+            "Gold": 360
+        },
+        "shots": 0
+    },
+    "Vampire Lord": {
+        "town": 4,
+        "level": "4+",
+        "portrait": "images/creatures/vampire_lord.jpg",
+        "view": "images/creatures/vampire_lord_view.jpg",
+        "attack": 10,
+        "defense": 10,
+        "damage_min": 5,
+        "damage_max": 8,
+        "health": 40,
+        "speed": 9,
+        "growth": 4,
+        "value": 783,
+        "cost": {
+            "Gold": 500
+        },
+        "shots": 0
+    },
+    "Lich": {
+        "town": 4,
+        "level": 5,
+        "portrait": "images/creatures/lich.jpg",
+        "view": "images/creatures/lich_view.jpg",
+        "attack": 13,
+        "defense": 10,
+        "damage_min": 11,
+        "damage_max": 13,
+        "health": 30,
+        "speed": 6,
+        "growth": 3,
+        "value": 848,
+        "cost": {
+            "Gold": 550
+        },
+        "shots": 12
+    },
+    "Power Lich": {
+        "town": 4,
+        "level": "5+",
+        "portrait": "images/creatures/power_lich.jpg",
+        "view": "images/creatures/power_lich_view.jpg",
+        "attack": 13,
+        "defense": 10,
+        "damage_min": 11,
+        "damage_max": 15,
+        "health": 40,
+        "speed": 7,
+        "growth": 3,
+        "value": 1079,
+        "cost": {
+            "Gold": 600
+        },
+        "shots": 24
+    },
+    "Black Knight": {
+        "town": 4,
+        "level": 6,
+        "portrait": "images/creatures/black_knight.jpg",
+        "view": "images/creatures/black_knight_view.jpg",
+        "attack": 16,
+        "defense": 16,
+        "damage_min": 15,
+        "damage_max": 30,
+        "health": 120,
+        "speed": 7,
+        "growth": 2,
+        "value": 2087,
+        "cost": {
+            "Gold": 1200
+        },
+        "shots": 0
+    },
+    "Dread Knight": {
+        "town": 4,
+        "level": "6+",
+        "portrait": "images/creatures/dread_knight.jpg",
+        "view": "images/creatures/dread_knight_view.jpg",
+        "attack": 18,
+        "defense": 18,
+        "damage_min": 15,
+        "damage_max": 30,
+        "health": 120,
+        "speed": 9,
+        "growth": 2,
+        "value": 2382,
+        "cost": {
+            "Gold": 1500
+        },
+        "shots": 0
+    },
+    "Bone Dragon": {
+        "town": 4,
+        "level": 7,
+        "portrait": "images/creatures/bone_dragon.jpg",
+        "view": "images/creatures/bone_dragon_view.jpg",
+        "attack": 17,
+        "defense": 15,
+        "damage_min": 25,
+        "damage_max": 50,
+        "health": 150,
+        "speed": 9,
+        "growth": 1,
+        "value": 3388,
+        "cost": {
+            "Gold": 1800
+        },
+        "shots": 0
+    },
+    "Ghost Dragon": {
+        "town": 4,
+        "level": "7+",
+        "portrait": "images/creatures/ghost_dragon.jpg",
+        "view": "images/creatures/ghost_dragon_view.jpg",
+        "attack": 19,
+        "defense": 17,
+        "damage_min": 25,
+        "damage_max": 50,
+        "health": 200,
+        "speed": 14,
+        "growth": 1,
+        "value": 4696,
+        "cost": {"Gold": 3000, "Mercury": 1},
+        "shots": 0
+    },
+    "Troglodyte": {
+        "town": 5,
+        "level": 1,
+        "portrait": "images/creatures/troglodyte.jpg",
+        "view": "images/creatures/troglodyte_view.jpg",
+        "attack": 4,
+        "defense": 3,
+        "damage_min": 1,
+        "damage_max": 3,
+        "health": 5,
+        "speed": 4,
+        "growth": 14,
+        "value": 59,
+        "cost": {
+            "Gold": 50
+        },
+        "shots": 0
+    },
+    "Infernal Troglodyte": {
+        "town": 5,
+        "level": "1+",
+        "portrait": "images/creatures/infernal_troglodyte.jpg",
+        "view": "images/creatures/infernal_troglodyte_view.jpg",
+        "attack": 5,
+        "defense": 4,
+        "damage_min": 1,
+        "damage_max": 3,
+        "health": 6,
+        "speed": 5,
+        "growth": 14,
+        "value": 84,
+        "cost": {
+            "Gold": 65
+        },
+        "shots": 0
+    },
+    "Harpy": {
+        "town": 5,
+        "level": 2,
+        "portrait": "images/creatures/harpy.jpg",
+        "view": "images/creatures/harpy_view.jpg",
+        "attack": 6,
+        "defense": 5,
+        "damage_min": 1,
+        "damage_max": 4,
+        "health": 14,
+        "speed": 6,
+        "growth": 8,
+        "value": 154,
+        "cost": {
+            "Gold": 130
+        },
+        "shots": 0
+    },
+    "Harpy Hag": {
+        "town": 5,
+        "level": "2+",
+        "portrait": "images/creatures/harpy_hag.jpg",
+        "view": "images/creatures/harpy_hag_view.jpg",
+        "attack": 6,
+        "defense": 6,
+        "damage_min": 1,
+        "damage_max": 4,
+        "health": 14,
+        "speed": 9,
+        "growth": 8,
+        "value": 238,
+        "cost": {
+            "Gold": 170
+        },
+        "shots": 0
+    },
+    "Beholder": {
+        "town": 5,
+        "level": 3,
+        "portrait": "images/creatures/beholder.jpg",
+        "view": "images/creatures/beholder_view.jpg",
+        "attack": 9,
+        "defense": 7,
+        "damage_min": 3,
+        "damage_max": 5,
+        "health": 22,
+        "speed": 5,
+        "growth": 7,
+        "value": 336,
+        "cost": {
+            "Gold": 250
+        },
+        "shots": 12
+    },
+    "Evil Eye": {
+        "town": 5,
+        "level": "3+",
+        "portrait": "images/creatures/evil_eye.jpg",
+        "view": "images/creatures/evil_eye_view.jpg",
+        "attack": 10,
+        "defense": 8,
+        "damage_min": 3,
+        "damage_max": 5,
+        "health": 22,
+        "speed": 7,
+        "growth": 7,
+        "value": 367,
+        "cost": {
+            "Gold": 280
+        },
+        "shots": 24
+    },
+    "Medusa": {
+        "town": 5,
+        "level": 4,
+        "portrait": "images/creatures/medusa.jpg",
+        "view": "images/creatures/medusa_view.jpg",
+        "attack": 9,
+        "defense": 9,
+        "damage_min": 6,
+        "damage_max": 8,
+        "health": 25,
+        "speed": 5,
+        "growth": 4,
+        "value": 517,
+        "cost": {
+            "Gold": 300
+        },
+        "shots": 4
+    },
+    "Medusa Queen": {
+        "town": 5,
+        "level": "4+",
+        "portrait": "images/creatures/medusa_queen.jpg",
+        "view": "images/creatures/medusa_queen_view.jpg",
+        "attack": 10,
+        "defense": 10,
+        "damage_min": 6,
+        "damage_max": 8,
+        "health": 30,
+        "speed": 6,
+        "growth": 4,
+        "value": 577,
+        "cost": {
+            "Gold": 330
+        },
+        "shots": 8
+    },
+    "Minotaur": {
+        "town": 5,
+        "level": 5,
+        "portrait": "images/creatures/minotaur.jpg",
+        "view": "images/creatures/minotaur_view.jpg",
+        "attack": 14,
+        "defense": 12,
+        "damage_min": 12,
+        "damage_max": 20,
+        "health": 50,
+        "speed": 6,
+        "growth": 3,
+        "value": 835,
+        "cost": {
+            "Gold": 500
+        },
+        "shots": 0
+    },
+    "Minotaur King": {
+        "town": 5,
+        "level": "5+",
+        "portrait": "images/creatures/minotaur_king.jpg",
+        "view": "images/creatures/minotaur_king_view.jpg",
+        "attack": 15,
+        "defense": 15,
+        "damage_min": 12,
+        "damage_max": 20,
+        "health": 50,
+        "speed": 8,
+        "growth": 3,
+        "value": 1068,
+        "cost": {
+            "Gold": 575
+        },
+        "shots": 0
+    },
+    "Manticore": {
+        "town": 5,
+        "level": 6,
+        "portrait": "images/creatures/manticore.jpg",
+        "view": "images/creatures/manticore_view.jpg",
+        "attack": 15,
+        "defense": 13,
+        "damage_min": 14,
+        "damage_max": 20,
+        "health": 80,
+        "speed": 7,
+        "growth": 2,
+        "value": 1547,
+        "cost": {
+            "Gold": 850
+        },
+        "shots": 0
+    },
+    "Scorpicore": {
+        "town": 5,
+        "level": "6+",
+        "portrait": "images/creatures/scorpicore.jpg",
+        "view": "images/creatures/scorpicore_view.jpg",
+        "attack": 16,
+        "defense": 14,
+        "damage_min": 14,
+        "damage_max": 20,
+        "health": 80,
+        "speed": 11,
+        "growth": 2,
+        "value": 1589,
+        "cost": {
+            "Gold": 1050
+        },
+        "shots": 0
+    },
+    "Red Dragon": {
+        "town": 5,
+        "level": 7,
+        "portrait": "images/creatures/red_dragon.jpg",
+        "view": "images/creatures/red_dragon_view.jpg",
+        "attack": 19,
+        "defense": 19,
+        "damage_min": 40,
+        "damage_max": 50,
+        "health": 180,
+        "speed": 11,
+        "growth": 1,
+        "value": 4702,
+        "cost": {"Gold": 2500, "Sulfur": 1},
+        "shots": 0
+    },
+    "Black Dragon": {
+        "town": 5,
+        "level": "7+",
+        "portrait": "images/creatures/black_dragon.jpg",
+        "view": "images/creatures/black_dragon_view.jpg",
+        "attack": 25,
+        "defense": 25,
+        "damage_min": 40,
+        "damage_max": 50,
+        "health": 300,
+        "speed": 15,
+        "growth": 1,
+        "value": 8721,
+        "cost": {"Gold": 4000, "Sulfur": 2},
+        "shots": 0
+    },
+    "Imp": {
+        "town": 3,
+        "level": 1,
+        "portrait": "images/creatures/imp.jpg",
+        "view": "images/creatures/imp_view.jpg",
+        "attack": 2,
+        "defense": 3,
+        "damage_min": 1,
+        "damage_max": 2,
+        "health": 4,
+        "speed": 5,
+        "growth": 15,
+        "value": 50,
+        "cost": {
+            "Gold": 50
+        },
+        "shots": 0
+    },
+    "Familiar": {
+        "town": 3,
+        "level": "1+",
+        "portrait": "images/creatures/familiar.jpg",
+        "view": "images/creatures/familiar_view.jpg",
+        "attack": 4,
+        "defense": 4,
+        "damage_min": 1,
+        "damage_max": 2,
+        "health": 4,
+        "speed": 7,
+        "growth": 15,
+        "value": 60,
+        "cost": {
+            "Gold": 60
+        },
+        "shots": 0
+    },
+    "Gog": {
+        "town": 3,
+        "level": 2,
+        "portrait": "images/creatures/gog.jpg",
+        "view": "images/creatures/gog_view.jpg",
+        "attack": 6,
+        "defense": 4,
+        "damage_min": 2,
+        "damage_max": 4,
+        "health": 13,
+        "speed": 4,
+        "growth": 8,
+        "value": 159,
+        "cost": {
+            "Gold": 125
+        },
+        "shots": 12
+    },
+    "Magog": {
+        "town": 3,
+        "level": "2+",
+        "portrait": "images/creatures/magog.jpg",
+        "view": "images/creatures/magog_view.jpg",
+        "attack": 7,
+        "defense": 4,
+        "damage_min": 2,
+        "damage_max": 4,
+        "health": 13,
+        "speed": 6,
+        "growth": 8,
+        "value": 240,
+        "cost": {
+            "Gold": 175
+        },
+        "shots": 24
+    },
+    "Hell Hound": {
+        "town": 3,
+        "level": 3,
+        "portrait": "images/creatures/hell_hound.jpg",
+        "view": "images/creatures/hell_hound_view.jpg",
+        "attack": 10,
+        "defense": 6,
+        "damage_min": 2,
+        "damage_max": 7,
+        "health": 25,
+        "speed": 7,
+        "growth": 5,
+        "value": 357,
+        "cost": {
+            "Gold": 200
+        },
+        "shots": 0
+    },
+    "Cerberus": {
+        "town": 3,
+        "level": "3+",
+        "portrait": "images/creatures/cerberus.jpg",
+        "view": "images/creatures/cerberus_view.jpg",
+        "attack": 10,
+        "defense": 8,
+        "damage_min": 2,
+        "damage_max": 7,
+        "health": 25,
+        "speed": 8,
+        "growth": 5,
+        "value": 392,
+        "cost": {
+            "Gold": 250
+        },
+        "shots": 0
+    },
+    "Demon": {
+        "town": 3,
+        "level": 4,
+        "portrait": "images/creatures/demon.jpg",
+        "view": "images/creatures/demon_view.jpg",
+        "attack": 10,
+        "defense": 10,
+        "damage_min": 7,
+        "damage_max": 9,
+        "health": 35,
+        "speed": 5,
+        "growth": 4,
+        "value": 445,
+        "cost": {
+            "Gold": 250
+        },
+        "shots": 0
+    },
+    "Horned Demon": {
+        "town": 3,
+        "level": "4+",
+        "portrait": "images/creatures/horned_demon.jpg",
+        "view": "images/creatures/horned_demon_view.jpg",
+        "attack": 10,
+        "defense": 10,
+        "damage_min": 7,
+        "damage_max": 9,
+        "health": 40,
+        "speed": 6,
+        "growth": 4,
+        "value": 480,
+        "cost": {
+            "Gold": 270
+        },
+        "shots": 0
+    },
+    "Pit Fiend": {
+        "town": 3,
+        "level": 5,
+        "portrait": "images/creatures/pit_fiend.jpg",
+        "view": "images/creatures/pit_fiend_view.jpg",
+        "attack": 13,
+        "defense": 13,
+        "damage_min": 13,
+        "damage_max": 17,
+        "health": 45,
+        "speed": 6,
+        "growth": 3,
+        "value": 765,
+        "cost": {
+            "Gold": 500
+        },
+        "shots": 0
+    },
+    "Pit Lord": {
+        "town": 3,
+        "level": "5+",
+        "portrait": "images/creatures/pit_lord.jpg",
+        "view": "images/creatures/pit_lord_view.jpg",
+        "attack": 13,
+        "defense": 13,
+        "damage_min": 13,
+        "damage_max": 17,
+        "health": 45,
+        "speed": 7,
+        "growth": 3,
+        "value": 1224,
+        "cost": {
+            "Gold": 700
+        },
+        "shots": 0
+    },
+    "Efreet": {
+        "town": 3,
+        "level": 6,
+        "portrait": "images/creatures/efreet.jpg",
+        "view": "images/creatures/efreet_view.jpg",
+        "attack": 16,
+        "defense": 12,
+        "damage_min": 16,
+        "damage_max": 24,
+        "health": 90,
+        "speed": 9,
+        "growth": 2,
+        "value": 1670,
+        "cost": {
+            "Gold": 900
+        },
+        "shots": 0
+    },
+    "Efreet Sultan": {
+        "town": 3,
+        "level": "6+",
+        "portrait": "images/creatures/efreet_sultan.jpg",
+        "view": "images/creatures/efreet_sultan_view.jpg",
+        "attack": 16,
+        "defense": 14,
+        "damage_min": 16,
+        "damage_max": 24,
+        "health": 90,
+        "speed": 13,
+        "growth": 2,
+        "value": 1848,
+        "cost": {
+            "Gold": 1100
+        },
+        "shots": 0
+    },
+    "Devil": {
+        "town": 3,
+        "level": 7,
+        "portrait": "images/creatures/devil.jpg",
+        "view": "images/creatures/devil_view.jpg",
+        "attack": 19,
+        "defense": 21,
+        "damage_min": 30,
+        "damage_max": 40,
+        "health": 160,
+        "speed": 11,
+        "growth": 1,
+        "value": 5101,
+        "cost": {"Gold": 2700, "Mercury": 1},
+        "shots": 0
+    },
+    "Arch Devil": {
+        "town": 3,
+        "level": "7+",
+        "portrait": "images/creatures/arch_devil.jpg",
+        "view": "images/creatures/arch_devil_view.jpg",
+        "attack": 26,
+        "defense": 28,
+        "damage_min": 30,
+        "damage_max": 40,
+        "health": 200,
+        "speed": 17,
+        "growth": 1,
+        "value": 7115,
+        "cost": {"Gold": 4500, "Mercury": 2},
+        "shots": 0
+    },
+    "Gnoll": {
+        "town": 7,
+        "level": 1,
+        "portrait": "images/creatures/gnoll.jpg",
+        "view": "images/creatures/gnoll_view.jpg",
+        "attack": 3,
+        "defense": 5,
+        "damage_min": 2,
+        "damage_max": 3,
+        "health": 6,
+        "speed": 4,
+        "growth": 12,
+        "value": 56,
+        "cost": {
+            "Gold": 50
+        },
+        "shots": 0
+    },
+    "Gnoll Marauder": {
+        "town": 7,
+        "level": "1+",
+        "portrait": "images/creatures/gnoll_marauder.jpg",
+        "view": "images/creatures/gnoll_marauder_view.jpg",
+        "attack": 4,
+        "defense": 6,
+        "damage_min": 2,
+        "damage_max": 3,
+        "health": 6,
+        "speed": 5,
+        "growth": 12,
+        "value": 90,
+        "cost": {
+            "Gold": 70
+        },
+        "shots": 0
+    },
+    "Lizardman": {
+        "town": 7,
+        "level": 2,
+        "portrait": "images/creatures/lizardman.jpg",
+        "view": "images/creatures/lizardman_view.jpg",
+        "attack": 5,
+        "defense": 6,
+        "damage_min": 2,
+        "damage_max": 3,
+        "health": 14,
+        "speed": 4,
+        "growth": 9,
+        "value": 126,
+        "cost": {
+            "Gold": 110
+        },
+        "shots": 12
+    },
+    "Lizard Warrior": {
+        "town": 7,
+        "level": "2+",
+        "portrait": "images/creatures/lizard_warrior.jpg",
+        "view": "images/creatures/lizard_warrior_view.jpg",
+        "attack": 6,
+        "defense": 8,
+        "damage_min": 2,
+        "damage_max": 5,
+        "health": 15,
+        "speed": 5,
+        "growth": 9,
+        "value": 156,
+        "cost": {
+            "Gold": 140
+        },
+        "shots": 24
+    },
+    "Serpent Fly": {
+        "town": 7,
+        "level": 3,
+        "portrait": "images/creatures/serpent_fly.jpg",
+        "view": "images/creatures/serpent_fly_view.jpg",
+        "attack": 7,
+        "defense": 9,
+        "damage_min": 2,
+        "damage_max": 5,
+        "health": 20,
+        "speed": 9,
+        "growth": 8,
+        "value": 268,
+        "cost": {
+            "Gold": 220
+        },
+        "shots": 0
+    },
+    "Dragon Fly": {
+        "town": 7,
+        "level": "3+",
+        "portrait": "images/creatures/dragon_fly.jpg",
+        "view": "images/creatures/dragon_fly_view.jpg",
+        "attack": 8,
+        "defense": 10,
+        "damage_min": 2,
+        "damage_max": 5,
+        "health": 20,
+        "speed": 13,
+        "growth": 8,
+        "value": 312,
+        "cost": {
+            "Gold": 240
+        },
+        "shots": 0
+    },
+    "Basilisk": {
+        "town": 7,
+        "level": 4,
+        "portrait": "images/creatures/basilisk.jpg",
+        "view": "images/creatures/basilisk_view.jpg",
+        "attack": 11,
+        "defense": 11,
+        "damage_min": 6,
+        "damage_max": 10,
+        "health": 35,
+        "speed": 5,
+        "growth": 4,
+        "value": 552,
+        "cost": {
+            "Gold": 325
+        },
+        "shots": 0
+    },
+    "Greater Basilisk": {
+        "town": 7,
+        "level": "4+",
+        "portrait": "images/creatures/greater_basilisk.jpg",
+        "view": "images/creatures/greater_basilisk_view.jpg",
+        "attack": 12,
+        "defense": 12,
+        "damage_min": 6,
+        "damage_max": 10,
+        "health": 40,
+        "speed": 7,
+        "growth": 4,
+        "value": 714,
+        "cost": {
+            "Gold": 400
+        },
+        "shots": 0
+    },
+    "Gorgon": {
+        "town": 7,
+        "level": 5,
+        "portrait": "images/creatures/gorgon.jpg",
+        "view": "images/creatures/gorgon_view.jpg",
+        "attack": 10,
+        "defense": 14,
+        "damage_min": 12,
+        "damage_max": 16,
+        "health": 70,
+        "speed": 5,
+        "growth": 3,
+        "value": 890,
+        "cost": {
+            "Gold": 525
+        },
+        "shots": 0
+    },
+    "Mighty Gorgon": {
+        "town": 7,
+        "level": "5+",
+        "portrait": "images/creatures/mighty_gorgon.jpg",
+        "view": "images/creatures/mighty_gorgon_view.jpg",
+        "attack": 11,
+        "defense": 16,
+        "damage_min": 12,
+        "damage_max": 16,
+        "health": 70,
+        "speed": 6,
+        "growth": 3,
+        "value": 1028,
+        "cost": {
+            "Gold": 600
+        },
+        "shots": 0
+    },
+    "Wyvern": {
+        "town": 7,
+        "level": 6,
+        "portrait": "images/creatures/wyvern.jpg",
+        "view": "images/creatures/wyvern_view.jpg",
+        "attack": 14,
+        "defense": 14,
+        "damage_min": 14,
+        "damage_max": 18,
+        "health": 70,
+        "speed": 7,
+        "growth": 2,
+        "value": 1350,
+        "cost": {
+            "Gold": 800
+        },
+        "shots": 0
+    },
+    "Wyvern Monarch": {
+        "town": 7,
+        "level": "6+",
+        "portrait": "images/creatures/wyvern_monarch.jpg",
+        "view": "images/creatures/wyvern_monarch_view.jpg",
+        "attack": 14,
+        "defense": 14,
+        "damage_min": 18,
+        "damage_max": 22,
+        "health": 70,
+        "speed": 11,
+        "growth": 2,
+        "value": 1518,
+        "cost": {
+            "Gold": 1100
+        },
+        "shots": 0
+    },
+    "Hydra": {
+        "town": 7,
+        "level": 7,
+        "portrait": "images/creatures/hydra.jpg",
+        "view": "images/creatures/hydra_view.jpg",
+        "attack": 16,
+        "defense": 18,
+        "damage_min": 25,
+        "damage_max": 45,
+        "health": 175,
+        "speed": 5,
+        "growth": 1,
+        "value": 4120,
+        "cost": {
+            "Gold": 2200
+        },
+        "shots": 0
+    },
+    "Chaos Hydra": {
+        "town": 7,
+        "level": "7+",
+        "portrait": "images/creatures/chaos_hydra.jpg",
+        "view": "images/creatures/chaos_hydra_view.jpg",
+        "attack": 18,
+        "defense": 20,
+        "damage_min": 25,
+        "damage_max": 45,
+        "health": 250,
+        "speed": 7,
+        "growth": 1,
+        "value": 5931,
+        "cost": {"Gold": 3500, "Sulfur": 1},
+        "shots": 0
+    },
+    "Goblin": {
+        "town": 6,
+        "level": 1,
+        "portrait": "images/creatures/goblin.jpg",
+        "view": "images/creatures/goblin_view.jpg",
+        "attack": 4,
+        "defense": 2,
+        "damage_min": 1,
+        "damage_max": 2,
+        "health": 5,
+        "speed": 5,
+        "growth": 15,
+        "value": 60,
+        "cost": {
+            "Gold": 40
+        },
+        "shots": 0
+    },
+    "Hobgoblin": {
+        "town": 6,
+        "level": "1+",
+        "portrait": "images/creatures/hobgoblin.jpg",
+        "view": "images/creatures/hobgoblin_view.jpg",
+        "attack": 5,
+        "defense": 3,
+        "damage_min": 1,
+        "damage_max": 2,
+        "health": 5,
+        "speed": 7,
+        "growth": 15,
+        "value": 78,
+        "cost": {
+            "Gold": 50
+        },
+        "shots": 0
+    },
+    "Wolf Rider": {
+        "town": 6,
+        "level": 2,
+        "portrait": "images/creatures/wolf_rider.jpg",
+        "view": "images/creatures/wolf_rider_view.jpg",
+        "attack": 7,
+        "defense": 5,
+        "damage_min": 2,
+        "damage_max": 4,
+        "health": 10,
+        "speed": 6,
+        "growth": 9,
+        "value": 130,
+        "cost": {
+            "Gold": 100
+        },
+        "shots": 0
+    },
+    "Wolf Raider": {
+        "town": 6,
+        "level": "2+",
+        "portrait": "images/creatures/wolf_raider.jpg",
+        "view": "images/creatures/wolf_raider_view.jpg",
+        "attack": 8,
+        "defense": 5,
+        "damage_min": 3,
+        "damage_max": 4,
+        "health": 10,
+        "speed": 8,
+        "growth": 9,
+        "value": 203,
+        "cost": {
+            "Gold": 140
+        },
+        "shots": 0
+    },
+    "Orc": {
+        "town": 6,
+        "level": 3,
+        "portrait": "images/creatures/orc.jpg",
+        "view": "images/creatures/orc_view.jpg",
+        "attack": 8,
+        "defense": 4,
+        "damage_min": 2,
+        "damage_max": 5,
+        "health": 15,
+        "speed": 4,
+        "growth": 7,
+        "value": 192,
+        "cost": {
+            "Gold": 150
+        },
+        "shots": 12
+    },
+    "Orc Chieftain": {
+        "town": 6,
+        "level": "3+",
+        "portrait": "images/creatures/orc_chieftain.jpg",
+        "view": "images/creatures/orc_chieftain_view.jpg",
+        "attack": 8,
+        "defense": 4,
+        "damage_min": 2,
+        "damage_max": 5,
+        "health": 20,
+        "speed": 5,
+        "growth": 7,
+        "value": 240,
+        "cost": {
+            "Gold": 165
+        },
+        "shots": 24
+    },
+    "Ogre": {
+        "town": 6,
+        "level": 4,
+        "portrait": "images/creatures/ogre.jpg",
+        "view": "images/creatures/ogre_view.jpg",
+        "attack": 13,
+        "defense": 7,
+        "damage_min": 6,
+        "damage_max": 12,
+        "health": 40,
+        "speed": 4,
+        "growth": 4,
+        "value": 416,
+        "cost": {
+            "Gold": 300
+        },
+        "shots": 0
+    },
+    "Ogre Mage": {
+        "town": 6,
+        "level": "4+",
+        "portrait": "images/creatures/ogre_mage.jpg",
+        "view": "images/creatures/ogre_mage_view.jpg",
+        "attack": 13,
+        "defense": 7,
+        "damage_min": 6,
+        "damage_max": 12,
+        "health": 60,
+        "speed": 5,
+        "growth": 4,
+        "value": 672,
+        "cost": {
+            "Gold": 600
+        },
+        "shots": 0
+    },
+    "Roc": {
+        "town": 6,
+        "level": 5,
+        "portrait": "images/creatures/roc.jpg",
+        "view": "images/creatures/roc_view.jpg",
+        "attack": 13,
+        "defense": 11,
+        "damage_min": 11,
+        "damage_max": 15,
+        "health": 60,
+        "speed": 7,
+        "growth": 3,
+        "value": 1027,
+        "cost": {
+            "Gold": 600
+        },
+        "shots": 0
+    },
+    "Thunderbird": {
+        "town": 6,
+        "level": "5+",
+        "portrait": "images/creatures/thunderbird.jpg",
+        "view": "images/creatures/thunderbird_view.jpg",
+        "attack": 13,
+        "defense": 11,
+        "damage_min": 11,
+        "damage_max": 15,
+        "health": 60,
+        "speed": 11,
+        "growth": 3,
+        "value": 1106,
+        "cost": {
+            "Gold": 700
+        },
+        "shots": 0
+    },
+    "Cyclops": {
+        "town": 6,
+        "level": 6,
+        "portrait": "images/creatures/cyclops.jpg",
+        "view": "images/creatures/cyclops_view.jpg",
+        "attack": 15,
+        "defense": 12,
+        "damage_min": 16,
+        "damage_max": 20,
+        "health": 70,
+        "speed": 6,
+        "growth": 2,
+        "value": 1266,
+        "cost": {
+            "Gold": 750
+        },
+        "shots": 16
+    },
+    "Cyclops King": {
+        "town": 6,
+        "level": "6+",
+        "portrait": "images/creatures/cyclops_king.jpg",
+        "view": "images/creatures/cyclops_king_view.jpg",
+        "attack": 17,
+        "defense": 13,
+        "damage_min": 16,
+        "damage_max": 20,
+        "health": 70,
+        "speed": 8,
+        "growth": 2,
+        "value": 1443,
+        "cost": {
+            "Gold": 1100
+        },
+        "shots": 24
+    },
+    "Behemoth": {
+        "town": 6,
+        "level": 7,
+        "portrait": "images/creatures/behemoth.jpg",
+        "view": "images/creatures/behemoth_view.jpg",
+        "attack": 17,
+        "defense": 17,
+        "damage_min": 30,
+        "damage_max": 50,
+        "health": 160,
+        "speed": 6,
+        "growth": 1,
+        "value": 3162,
+        "cost": {
+            "Gold": 1500
+        },
+        "shots": 0
+    },
+    "Ancient Behemoth": {
+        "town": 6,
+        "level": "7+",
+        "portrait": "images/creatures/ancient_behemoth.jpg",
+        "view": "images/creatures/ancient_behemoth_view.jpg",
+        "attack": 19,
+        "defense": 19,
+        "damage_min": 30,
+        "damage_max": 50,
+        "health": 300,
+        "speed": 9,
+        "growth": 1,
+        "value": 6168,
+        "cost": {"Gold": 3000, "Crystal": 1},
+        "shots": 0
+    },
+    "Pixie": {
+        "town": 8,
+        "level": 1,
+        "portrait": "images/creatures/pixie.jpg",
+        "view": "images/creatures/pixie_view.jpg",
+        "attack": 2,
+        "defense": 2,
+        "damage_min": 1,
+        "damage_max": 2,
+        "health": 3,
+        "speed": 7,
+        "growth": 20,
+        "value": 55,
+        "cost": {
+            "Gold": 25
+        },
+        "shots": 0
+    },
+    "Sprite": {
+        "town": 8,
+        "level": "1+",
+        "portrait": "images/creatures/sprite.jpg",
+        "view": "images/creatures/sprite_view.jpg",
+        "attack": 2,
+        "defense": 2,
+        "damage_min": 1,
+        "damage_max": 3,
+        "health": 3,
+        "speed": 9,
+        "growth": 20,
+        "value": 95,
+        "cost": {
+            "Gold": 30
+        },
+        "shots": 0
+    },
+    "Air Elemental": {
+        "town": 8,
+        "level": 2,
+        "portrait": "images/creatures/air_elemental.jpg",
+        "view": "images/creatures/air_elemental_view.jpg",
+        "attack": 9,
+        "defense": 9,
+        "damage_min": 2,
+        "damage_max": 8,
+        "health": 25,
+        "speed": 7,
+        "growth": 6,
+        "value": 356,
+        "cost": {
+            "Gold": 250
+        },
+        "shots": 0
+    },
+    "Storm Elemental": {
+        "town": 8,
+        "level": "2+",
+        "portrait": "images/creatures/storm_elemental.jpg",
+        "view": "images/creatures/storm_elemental_view.jpg",
+        "attack": 9,
+        "defense": 9,
+        "damage_min": 2,
+        "damage_max": 8,
+        "health": 25,
+        "speed": 8,
+        "growth": 6,
+        "value": 486,
+        "cost": {
+            "Gold": 275
+        },
+        "shots": 24
+    },
+    "Water Elemental": {
+        "town": 8,
+        "level": 3,
+        "portrait": "images/creatures/water_elemental.jpg",
+        "view": "images/creatures/water_elemental_view.jpg",
+        "attack": 8,
+        "defense": 10,
+        "damage_min": 3,
+        "damage_max": 7,
+        "health": 30,
+        "speed": 5,
+        "growth": 6,
+        "value": 315,
+        "cost": {
+            "Gold": 300
+        },
+        "shots": 0
+    },
+    "Ice Elemental": {
+        "town": 8,
+        "level": "3+",
+        "portrait": "images/creatures/ice_elemental.jpg",
+        "view": "images/creatures/ice_elemental_view.jpg",
+        "attack": 8,
+        "defense": 10,
+        "damage_min": 3,
+        "damage_max": 7,
+        "health": 30,
+        "speed": 6,
+        "growth": 6,
+        "value": 380,
+        "cost": {
+            "Gold": 375
+        },
+        "shots": 24
+    },
+    "Fire Elemental": {
+        "town": 8,
+        "level": 4,
+        "portrait": "images/creatures/fire_elemental.jpg",
+        "view": "images/creatures/fire_elemental_view.jpg",
+        "attack": 10,
+        "defense": 8,
+        "damage_min": 4,
+        "damage_max": 6,
+        "health": 35,
+        "speed": 6,
+        "growth": 5,
+        "value": 345,
+        "cost": {
+            "Gold": 350
+        },
+        "shots": 0
+    },
+    "Energy Elemental": {
+        "town": 8,
+        "level": "4+",
+        "portrait": "images/creatures/energy_elemental.jpg",
+        "view": "images/creatures/energy_elemental_view.jpg",
+        "attack": 12,
+        "defense": 8,
+        "damage_min": 4,
+        "damage_max": 6,
+        "health": 35,
+        "speed": 8,
+        "growth": 5,
+        "value": 470,
+        "cost": {
+            "Gold": 400
+        },
+        "shots": 0
+    },
+    "Earth Elemental": {
+        "town": 8,
+        "level": 5,
+        "portrait": "images/creatures/earth_elemental.jpg",
+        "view": "images/creatures/earth_elemental_view.jpg",
+        "attack": 10,
+        "defense": 10,
+        "damage_min": 4,
+        "damage_max": 8,
+        "health": 40,
+        "speed": 4,
+        "growth": 4,
+        "value": 330,
+        "cost": {
+            "Gold": 400
+        },
+        "shots": 0
+    },
+    "Magma Elemental": {
+        "town": 8,
+        "level": "5+",
+        "portrait": "images/creatures/magma_elemental.jpg",
+        "view": "images/creatures/magma_elemental_view.jpg",
+        "attack": 11,
+        "defense": 11,
+        "damage_min": 6,
+        "damage_max": 10,
+        "health": 40,
+        "speed": 6,
+        "growth": 4,
+        "value": 490,
+        "cost": {
+            "Gold": 500
+        },
+        "shots": 0
+    },
+    "Psychic Elemental": {
+        "town": 8,
+        "level": 6,
+        "portrait": "images/creatures/psychic_elemental.jpg",
+        "view": "images/creatures/psychic_elemental_view.jpg",
+        "attack": 15,
+        "defense": 13,
+        "damage_min": 10,
+        "damage_max": 20,
+        "health": 75,
+        "speed": 7,
+        "growth": 2,
+        "value": 1669,
+        "cost": {
+            "Gold": 750
+        },
+        "shots": 0
+    },
+    "Magic Elemental": {
+        "town": 8,
+        "level": "6+",
+        "portrait": "images/creatures/magic_elemental.jpg",
+        "view": "images/creatures/magic_elemental_view.jpg",
+        "attack": 15,
+        "defense": 13,
+        "damage_min": 15,
+        "damage_max": 25,
+        "health": 80,
+        "speed": 9,
+        "growth": 2,
+        "value": 2012,
+        "cost": {
+            "Gold": 800
+        },
+        "shots": 0
+    },
+    "Firebird": {
+        "town": 8,
+        "level": 7,
+        "portrait": "images/creatures/firebird.jpg",
+        "view": "images/creatures/firebird_view.jpg",
+        "attack": 18,
+        "defense": 18,
+        "damage_min": 30,
+        "damage_max": 40,
+        "health": 150,
+        "speed": 15,
+        "growth": 2,
+        "value": 4547,
+        "cost": {
+            "Gold": 1500
+        },
+        "shots": 0
+    },
+    "Phoenix": {
+        "town": 8,
+        "level": "7+",
+        "portrait": "images/creatures/phoenix.jpg",
+        "view": "images/creatures/phoenix_view.jpg",
+        "attack": 21,
+        "defense": 18,
+        "damage_min": 30,
+        "damage_max": 40,
+        "health": 200,
+        "speed": 21,
+        "growth": 2,
+        "value": 6721,
+        "cost": {"Gold": 2000, "Mercury": 1},
+        "shots": 0
+    },
+    "Peasant": {
+        "town": 10,
+        "level": 1,
+        "portrait": "images/creatures/peasant.jpg",
+        "view": "images/creatures/peasant_view.jpg",
+        "attack": 1,
+        "defense": 1,
+        "damage_min": 1,
+        "damage_max": 1,
+        "health": 1,
+        "speed": 3,
+        "growth": 25,
+        "value": 15,
+        "cost": {
+            "Gold": 10
+        },
+        "shots": 0
+    },
+    "Halfling": {
+        "town": 10,
+        "level": 1,
+        "portrait": "images/creatures/halfling.jpg",
+        "view": "images/creatures/halfling_view.jpg",
+        "attack": 4,
+        "defense": 2,
+        "damage_min": 1,
+        "damage_max": 3,
+        "health": 4,
+        "speed": 5,
+        "growth": 15,
+        "value": 75,
+        "cost": {
+            "Gold": 40
+        },
+        "shots": 24
+    },
+    "Boar": {
+        "town": 10,
+        "level": 2,
+        "portrait": "images/creatures/boar.jpg",
+        "view": "images/creatures/boar_view.jpg",
+        "attack": 6,
+        "defense": 5,
+        "damage_min": 2,
+        "damage_max": 3,
+        "health": 15,
+        "speed": 6,
+        "growth": 8,
+        "value": 145,
+        "cost": {
+            "Gold": 150
+        },
+        "shots": 0
+    },
+    "Rogue": {
+        "town": 10,
+        "level": 2,
+        "portrait": "images/creatures/rogue.jpg",
+        "view": "images/creatures/rogue_view.jpg",
+        "attack": 8,
+        "defense": 3,
+        "damage_min": 2,
+        "damage_max": 4,
+        "health": 10,
+        "speed": 6,
+        "growth": 8,
+        "value": 135,
+        "cost": {
+            "Gold": 100
+        },
+        "shots": 0
+    },
+    "Leprechaun": {
+        "town": 10,
+        "level": 2,
+        "portrait": "images/creatures/leprechaun.jpg",
+        "view": "images/creatures/leprechaun_view.jpg",
+        "attack": 8,
+        "defense": 5,
+        "damage_min": 3,
+        "damage_max": 5,
+        "health": 15,
+        "speed": 5,
+        "growth": 9,
+        "value": 208,
+        "cost": {
+            "Gold": 100
+        },
+        "shots": 0
+    },
+    "Nomad": {
+        "town": 10,
+        "level": 3,
+        "portrait": "images/creatures/nomad.jpg",
+        "view": "images/creatures/nomad_view.jpg",
+        "attack": 9,
+        "defense": 8,
+        "damage_min": 2,
+        "damage_max": 6,
+        "health": 30,
+        "speed": 7,
+        "growth": 7,
+        "value": 345,
+        "cost": {
+            "Gold": 200
+        },
+        "shots": 0
+    },
+    "Mummy": {
+        "town": 10,
+        "level": 3,
+        "portrait": "images/creatures/mummy.jpg",
+        "view": "images/creatures/mummy_view.jpg",
+        "attack": 7,
+        "defense": 7,
+        "damage_min": 3,
+        "damage_max": 5,
+        "health": 30,
+        "speed": 5,
+        "growth": 7,
+        "value": 270,
+        "cost": {
+            "Gold": 300
+        },
+        "shots": 0
+    },
+    "Gold Golem": {
+        "town": 10,
+        "level": 5,
+        "portrait": "images/creatures/gold_golem.jpg",
+        "view": "images/creatures/gold_golem_view.jpg",
+        "attack": 11,
+        "defense": 12,
+        "damage_min": 8,
+        "damage_max": 10,
+        "health": 50,
+        "speed": 5,
+        "growth": 3,
+        "value": 600,
+        "cost": {
+            "Gold": 500
+        },
+        "shots": 0
+    },
+    "Fangarm": {
+        "town": 10,
+        "level": 5,
+        "portrait": "images/creatures/fangarm.jpg",
+        "view": "images/creatures/fangarm_view.jpg",
+        "attack": 12,
+        "defense": 12,
+        "damage_min": 8,
+        "damage_max": 12,
+        "health": 50,
+        "speed": 6,
+        "growth": 3,
+        "value": 929,
+        "cost": {
+            "Gold": 600
+        },
+        "shots": 0
+    },
+    "Sharpshooter": {
+        "town": 10,
+        "level": 4,
+        "portrait": "images/creatures/sharpshooter.jpg",
+        "view": "images/creatures/sharpshooter_view.jpg",
+        "attack": 12,
+        "defense": 10,
+        "damage_min": 8,
+        "damage_max": 10,
+        "health": 15,
+        "speed": 9,
+        "growth": 4,
+        "value": 585,
+        "cost": {
+            "Gold": 400
+        },
+        "shots": 32
+    },
+    "Satyr": {
+        "town": 10,
+        "level": 4,
+        "portrait": "images/creatures/satyr.jpg",
+        "view": "images/creatures/satyr_view.jpg",
+        "attack": 10,
+        "defense": 11,
+        "damage_min": 6,
+        "damage_max": 10,
+        "health": 35,
+        "speed": 7,
+        "growth": 4,
+        "value": 518,
+        "cost": {
+            "Gold": 300
+        },
+        "shots": 0
+    },
+    "Steel Golem": {
+        "town": 10,
+        "level": 4,
+        "portrait": "images/creatures/steel_golem.jpg",
+        "view": "images/creatures/steel_golem_view.jpg",
+        "attack": 10,
+        "defense": 11,
+        "damage_min": 6,
+        "damage_max": 8,
+        "health": 45,
+        "speed": 6,
+        "growth": 4,
+        "value": 597,
+        "cost": {
+            "Gold": 400
+        },
+        "shots": 0
+    },
+    "Diamond Golem": {
+        "town": 10,
+        "level": 6,
+        "portrait": "images/creatures/diamond_golem.jpg",
+        "view": "images/creatures/diamond_golem_view.jpg",
+        "attack": 13,
+        "defense": 12,
+        "damage_min": 10,
+        "damage_max": 14,
+        "health": 60,
+        "speed": 5,
+        "growth": 2,
+        "value": 775,
+        "cost": {
+            "Gold": 750
+        },
+        "shots": 0
+    },
+    "Troll": {
+        "town": 10,
+        "level": 5,
+        "portrait": "images/creatures/troll.jpg",
+        "view": "images/creatures/troll_view.jpg",
+        "attack": 14,
+        "defense": 7,
+        "damage_min": 10,
+        "damage_max": 15,
+        "health": 40,
+        "speed": 7,
+        "growth": 3,
+        "value": 1024,
+        "cost": {
+            "Gold": 500
+        },
+        "shots": 0
+    },
+    "Enchanter": {
+        "town": 10,
+        "level": 6,
+        "portrait": "images/creatures/enchanter.jpg",
+        "view": "images/creatures/enchanter_view.jpg",
+        "attack": 17,
+        "defense": 12,
+        "damage_min": 14,
+        "damage_max": 14,
+        "health": 30,
+        "speed": 9,
+        "growth": 2,
+        "value": 1210,
+        "cost": {
+            "Gold": 750
+        },
+        "shots": 0
+    },
+    "Faerie Dragon": {
+        "town": 10,
+        "level": 7,
+        "portrait": "images/creatures/faerie_dragon.jpg",
+        "view": "images/creatures/faerie_dragon_view.jpg",
+        "attack": 20,
+        "defense": 20,
+        "damage_min": 20,
+        "damage_max": 30,
+        "health": 500,
+        "speed": 15,
+        "growth": 1,
+        "value": 19580,
+        "cost": {"Gold": 10000, "Gems": 8},
+        "shots": 0
+    },
+    "Rust Dragon": {
+        "town": 10,
+        "level": 7,
+        "portrait": "images/creatures/rust_dragon.jpg",
+        "view": "images/creatures/rust_dragon_view.jpg",
+        "attack": 30,
+        "defense": 30,
+        "damage_min": 50,
+        "damage_max": 50,
+        "health": 750,
+        "speed": 17,
+        "growth": 1,
+        "value": 26433,
+        "cost": {"Gold": 15000, "Sulfur": 14},
+        "shots": 0
+    },
+    "Crystal Dragon": {
+        "town": 10,
+        "level": 7,
+        "portrait": "images/creatures/crystal_dragon.jpg",
+        "view": "images/creatures/crystal_dragon_view.jpg",
+        "attack": 40,
+        "defense": 40,
+        "damage_min": 60,
+        "damage_max": 75,
+        "health": 800,
+        "speed": 16,
+        "growth": 1,
+        "value": 39338,
+        "cost": {"Gold": 20000, "Crystal": 10},
+        "shots": 0
+    },
+    "Azure Dragon": {
+        "town": 10,
+        "level": 7,
+        "portrait": "images/creatures/azure_dragon.jpg",
+        "view": "images/creatures/azure_dragon_view.jpg",
+        "attack": 50,
+        "defense": 50,
+        "damage_min": 70,
+        "damage_max": 80,
+        "health": 1000,
+        "speed": 19,
+        "growth": 1,
+        "value": 78845,
+        "cost": {"Gold": 30000, "Mercury": 20},
+        "shots": 0
+    },
+    "Nymph": {
+        "town": 9,
+        "level": 1,
+        "portrait": "images/creatures/nymph.jpg",
+        "view": "images/creatures/nymph_view.jpg",
+        "attack": 5,
+        "defense": 2,
+        "damage_min": 1,
+        "damage_max": 2,
+        "health": 4,
+        "speed": 6,
+        "growth": 16,
+        "value": 57,
+        "cost": {
+            "Gold": 35
+        },
+        "shots": 0
+    },
+    "Oceanid": {
+        "town": 9,
+        "level": "1+",
+        "portrait": "images/creatures/oceanid.jpg",
+        "view": "images/creatures/oceanid_view.jpg",
+        "attack": 6,
+        "defense": 2,
+        "damage_min": 1,
+        "damage_max": 3,
+        "health": 4,
+        "speed": 8,
+        "growth": 16,
+        "value": 75,
+        "cost": {
+            "Gold": 45
+        },
+        "shots": 0
+    },
+    "Crew Mate": {
+        "town": 9,
+        "level": 2,
+        "portrait": "images/creatures/crew_mate.jpg",
+        "view": "images/creatures/crew_mate_view.jpg",
+        "attack": 7,
+        "defense": 4,
+        "damage_min": 2,
+        "damage_max": 4,
+        "health": 15,
+        "speed": 5,
+        "growth": 9,
+        "value": 155,
+        "cost": {
+            "Gold": 110
+        },
+        "shots": 0
+    },
+    "Seaman": {
+        "town": 9,
+        "level": "2+",
+        "portrait": "images/creatures/seaman.jpg",
+        "view": "images/creatures/seaman_view.jpg",
+        "attack": 8,
+        "defense": 6,
+        "damage_min": 3,
+        "damage_max": 4,
+        "health": 15,
+        "speed": 6,
+        "growth": 9,
+        "value": 174,
+        "cost": {
+            "Gold": 140
+        },
+        "shots": 0
+    },
+    "Pirate": {
+        "town": 9,
+        "level": 3,
+        "portrait": "images/creatures/pirate.jpg",
+        "view": "images/creatures/pirate_view.jpg",
+        "attack": 8,
+        "defense": 6,
+        "damage_min": 3,
+        "damage_max": 7,
+        "health": 15,
+        "speed": 6,
+        "growth": 7,
+        "value": 312,
+        "cost": {
+            "Gold": 225
+        },
+        "shots": 4
+    },
+    "Corsair": {
+        "town": 9,
+        "level": "3+",
+        "portrait": "images/creatures/corsair.jpg",
+        "view": "images/creatures/corsair_view.jpg",
+        "attack": 10,
+        "defense": 8,
+        "damage_min": 3,
+        "damage_max": 7,
+        "health": 15,
+        "speed": 7,
+        "growth": 7,
+        "value": 407,
+        "cost": {
+            "Gold": 275
+        },
+        "shots": 4
+    },
+    "Sea Dog": {
+        "town": 9,
+        "level": "3+",
+        "portrait": "images/creatures/sea_dog.jpg",
+        "view": "images/creatures/sea_dog_view.jpg",
+        "attack": 12,
+        "defense": 11,
+        "damage_min": 3,
+        "damage_max": 7,
+        "health": 15,
+        "speed": 8,
+        "growth": 7,
+        "value": 602,
+        "cost": {
+            "Gold": 375
+        },
+        "shots": 12
+    },
+    "Stormbird": {
+        "town": 9,
+        "level": 4,
+        "portrait": "images/creatures/stormbird.jpg",
+        "view": "images/creatures/stormbird_view.jpg",
+        "attack": 10,
+        "defense": 8,
+        "damage_min": 6,
+        "damage_max": 9,
+        "health": 30,
+        "speed": 9,
+        "growth": 4,
+        "value": 502,
+        "cost": {
+            "Gold": 275
+        },
+        "shots": 0
+    },
+    "Ayssid": {
+        "town": 9,
+        "level": "4+",
+        "portrait": "images/creatures/ayssid.jpg",
+        "view": "images/creatures/ayssid_view.jpg",
+        "attack": 11,
+        "defense": 8,
+        "damage_min": 6,
+        "damage_max": 10,
+        "health": 30,
+        "speed": 11,
+        "growth": 4,
+        "value": 645,
+        "cost": {
+            "Gold": 325
+        },
+        "shots": 0
+    },
+    "Sea Witch": {
+        "town": 9,
+        "level": 5,
+        "portrait": "images/creatures/sea_witch.jpg",
+        "view": "images/creatures/sea_witch_view.jpg",
+        "attack": 12,
+        "defense": 7,
+        "damage_min": 10,
+        "damage_max": 14,
+        "health": 35,
+        "speed": 6,
+        "growth": 3,
+        "value": 790,
+        "cost": {
+            "Gold": 515
+        },
+        "shots": 0
+    },
+    "Sorceress": {
+        "town": 9,
+        "level": "5+",
+        "portrait": "images/creatures/sorceress.jpg",
+        "view": "images/creatures/sorceress_view.jpg",
+        "attack": 12,
+        "defense": 9,
+        "damage_min": 10,
+        "damage_max": 16,
+        "health": 35,
+        "speed": 7,
+        "growth": 3,
+        "value": 852,
+        "cost": {
+            "Gold": 565
+        },
+        "shots": 0
+    },
+    "Nix": {
+        "town": 9,
+        "level": 6,
+        "portrait": "images/creatures/nix.jpg",
+        "view": "images/creatures/nix_view.jpg",
+        "attack": 13,
+        "defense": 16,
+        "damage_min": 18,
+        "damage_max": 22,
+        "health": 80,
+        "speed": 6,
+        "growth": 2,
+        "value": 1415,
+        "cost": {
+            "Gold": 1000
+        },
+        "shots": 0
+    },
+    "Nix Warrior": {
+        "town": 9,
+        "level": "6+",
+        "portrait": "images/creatures/nix_warrior.jpg",
+        "view": "images/creatures/nix_warrior_view.jpg",
+        "attack": 14,
+        "defense": 17,
+        "damage_min": 18,
+        "damage_max": 22,
+        "health": 90,
+        "speed": 7,
+        "growth": 2,
+        "value": 2116,
+        "cost": {
+            "Gold": 1300
+        },
+        "shots": 0
+    },
+    "Sea Serpent": {
+        "town": 9,
+        "level": 7,
+        "portrait": "images/creatures/sea_serpent.jpg",
+        "view": "images/creatures/sea_serpent_view.jpg",
+        "attack": 22,
+        "defense": 16,
+        "damage_min": 30,
+        "damage_max": 55,
+        "health": 180,
+        "speed": 9,
+        "growth": 1,
+        "value": 3953,
+        "cost": {"Gold": 2200, "Sulfur": 1},
+        "shots": 0
+    },
+    "Haspid": {
+        "town": 9,
+        "level": "7+",
+        "portrait": "images/creatures/haspid.jpg",
+        "view": "images/creatures/haspid_view.jpg",
+        "attack": 29,
+        "defense": 20,
+        "damage_min": 30,
+        "damage_max": 55,
+        "health": 300,
+        "speed": 12,
+        "growth": 1,
+        "value": 7220,
+        "cost": {"Gold": 4000, "Sulfur": 2},
+        "shots": 0
+    }
+}
