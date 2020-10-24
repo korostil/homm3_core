@@ -1,0 +1,932 @@
+{
+    "Cape of Conjuring": {
+        "slot": "Cape",
+        "class": "Treasure",
+        "cost": 1500,
+        "part_of": "Ring of the Magi"
+    },
+    "Dragon Wing Tabard": {
+        "slot": "Cape",
+        "class": "Minor",
+        "cost": 4000,
+        "part_of": "Power of the Dragon Father"
+    },
+    "Vampire's Cowl": {
+        "slot": "Cape",
+        "class": "Minor",
+        "cost": 4000,
+        "part_of": "Cloak of the Undead King"
+    },
+    "Surcoat of Counterpoise": {
+        "slot": "Cape",
+        "class": "Major",
+        "cost": 4000,
+        "part_of": "Pendant of Reflection"
+    },
+    "Ambassador's Sash": {
+        "slot": "Cape",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": "Diplomat's Cloak"
+    },
+    "Everflowing Crystal Cloak": {
+        "slot": "Cape",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": "Cornucopia"
+    },
+    "Recanter's Cloak": {
+        "slot": "Cape",
+        "class": "Major",
+        "cost": 8000,
+        "part_of": null
+    },
+    "Cape of Velocity": {
+        "slot": "Cape",
+        "class": "Major",
+        "cost": 10000,
+        "part_of": null
+    },
+    "Angel Wings": {
+        "slot": "Cape",
+        "class": "Relic",
+        "cost": 20000,
+        "part_of": null
+    },
+    "Cape of Silence": {
+        "slot": "Cape",
+        "class": "Major",
+        "cost": 7500,
+        "part_of": null
+    },
+    "Cloak of the Undead King": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 12000,
+        "part_of": null
+    },
+    "Diplomat's Cloak": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 15000,
+        "part_of": null
+    },
+    "Admiral's Hat": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 25000,
+        "part_of": null
+    },
+    "Wizard's Well": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 3000,
+        "part_of": null
+    },
+    "Bow of the Sharpshooter": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 12000,
+        "part_of": null
+    },
+    "Elixir of Life": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 20000,
+        "part_of": null
+    },
+    "Cornucopia": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 20000,
+        "part_of": null
+    },
+    "Statue of Legion": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 25000,
+        "part_of": null
+    },
+    "Golden Goose": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 22500,
+        "part_of": null
+    },
+    "Pendant of Reflection": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 12000,
+        "part_of": null
+    },
+    "Titan's Thunder": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 40000,
+        "part_of": null
+    },
+    "Angelic Alliance": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 84000,
+        "part_of": null
+    },
+    "Ironfist of the Ogre": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 20000,
+        "part_of": null
+    },
+    "Ring of the Magi": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 3000,
+        "part_of": null
+    },
+    "Armor of the Damned": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 12000,
+        "part_of": null
+    },
+    "Power of the Dragon Father": {
+        "slot": "Combo",
+        "class": "Relic",
+        "cost": 42000,
+        "part_of": null
+    },
+    "Dragonbone Greaves": {
+        "slot": "Feet",
+        "class": "Treasure",
+        "cost": 2000,
+        "part_of": "Power of the Dragon Father"
+    },
+    "Boots of Speed": {
+        "slot": "Feet",
+        "class": "Minor",
+        "cost": 6000,
+        "part_of": null
+    },
+    "Dead Man's Boots": {
+        "slot": "Feet",
+        "class": "Major",
+        "cost": 6000,
+        "part_of": "Cloak of the Undead King"
+    },
+    "Boots of Polarity": {
+        "slot": "Feet",
+        "class": "Relic",
+        "cost": 6000,
+        "part_of": "Pendant of Reflection"
+    },
+    "Sandals of the Saint": {
+        "slot": "Feet",
+        "class": "Relic",
+        "cost": 8000,
+        "part_of": "Angelic Alliance"
+    },
+    "Boots of Levitation": {
+        "slot": "Feet",
+        "class": "Relic",
+        "cost": 10000,
+        "part_of": null
+    },
+    "Wayfarer's Boots": {
+        "slot": "Feet",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": null
+    },
+    "Helm of the Alabaster Unicorn": {
+        "slot": "Helm",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": null
+    },
+    "Skull Helmet": {
+        "slot": "Helm",
+        "class": "Treasure",
+        "cost": 3000,
+        "part_of": "Armor of the Damned"
+    },
+    "Helm of Chaos": {
+        "slot": "Helm",
+        "class": "Minor",
+        "cost": 4000,
+        "part_of": null
+    },
+    "Crown of the Supreme Magi": {
+        "slot": "Helm",
+        "class": "Minor",
+        "cost": 5000,
+        "part_of": "Ironfist of the Ogre"
+    },
+    "Hellstorm Helmet": {
+        "slot": "Helm",
+        "class": "Major",
+        "cost": 6000,
+        "part_of": null
+    },
+    "Crown of Dragontooth": {
+        "slot": "Helm",
+        "class": "Relic",
+        "cost": 8000,
+        "part_of": "Power of the Dragon Father"
+    },
+    "Thunder Helmet": {
+        "slot": "Helm",
+        "class": "Relic",
+        "cost": 10000,
+        "part_of": "Titan's Thunder"
+    },
+    "Sea Captain's Hat": {
+        "slot": "Helm",
+        "class": "Relic",
+        "cost": 15000,
+        "part_of": "Admiral's Hat"
+    },
+    "Helm of Heavenly Enlightenment": {
+        "slot": "Helm",
+        "class": "Relic",
+        "cost": 24000,
+        "part_of": "Angelic Alliance"
+    },
+    "Spellbinder's Hat": {
+        "slot": "Helm",
+        "class": "Relic",
+        "cost": 30000,
+        "part_of": null
+    },
+    "Crown of the Five Seas": {
+        "slot": "Helm",
+        "class": "Major",
+        "cost": 7000,
+        "part_of": null
+    },
+    "Charm of Mana": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 500,
+        "part_of": "Wizard's Well"
+    },
+    "Talisman of Mana": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": "Wizard's Well"
+    },
+    "Mystic Orb of Mana": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 1500,
+        "part_of": "Wizard's Well"
+    },
+    "Orb of Silt": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 6000,
+        "part_of": null
+    },
+    "Orb of the Firmament": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 6000,
+        "part_of": null
+    },
+    "Orb of Driving Rain": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 6000,
+        "part_of": null
+    },
+    "Orb of Tempestuous Fire": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 6000,
+        "part_of": null
+    },
+    "Tome of Earth": {
+        "slot": "Misc",
+        "class": "Relic",
+        "cost": 20000,
+        "part_of": null
+    },
+    "Tome of Air": {
+        "slot": "Misc",
+        "class": "Relic",
+        "cost": 20000,
+        "part_of": null
+    },
+    "Tome of Water": {
+        "slot": "Misc",
+        "class": "Relic",
+        "cost": 20000,
+        "part_of": null
+    },
+    "Tome of Fire": {
+        "slot": "Misc",
+        "class": "Relic",
+        "cost": 20000,
+        "part_of": null
+    },
+    "Sphere of Permanence": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 7500,
+        "part_of": null
+    },
+    "Orb of Inhibition": {
+        "slot": "Misc",
+        "class": "Relic",
+        "cost": 20000,
+        "part_of": null
+    },
+    "Orb of Vulnerability": {
+        "slot": "Misc",
+        "class": "Relic",
+        "cost": 25000,
+        "part_of": null
+    },
+    "Bird of Perception": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": null
+    },
+    "Stoic Watchman": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 2000,
+        "part_of": null
+    },
+    "Emblem of Cognizance": {
+        "slot": "Misc",
+        "class": "Minor",
+        "cost": 3000,
+        "part_of": null
+    },
+    "Clover of Fortune": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": null
+    },
+    "Ladybird of Luck": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": null
+    },
+    "Cards of Prophecy": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": null
+    },
+    "Hourglass of the Evil Hour": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 2000,
+        "part_of": null
+    },
+    "Glyph of Gallantry": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": null
+    },
+    "Crest of Valor": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": null
+    },
+    "Badge of Courage": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": null
+    },
+    "Spirit of Oppression": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 2000,
+        "part_of": null
+    },
+    "Spyglass": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": null
+    },
+    "Speculum": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": null
+    },
+    "Golden Bow": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 8000,
+        "part_of": null
+    },
+    "Bow of Elven Cherrywood": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 2000,
+        "part_of": "Bow of the Sharpshooter"
+    },
+    "Bowstring of the Unicorn's Mane": {
+        "slot": "Misc",
+        "class": "Minor",
+        "cost": 4000,
+        "part_of": "Bow of the Sharpshooter"
+    },
+    "Angel Feather Arrows": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 6000,
+        "part_of": "Bow of the Sharpshooter"
+    },
+    "Vial of Lifeblood": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 10000,
+        "part_of": "Elixir of Life"
+    },
+    "Endless Purse of Gold": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": "Golden Goose"
+    },
+    "Endless Bag of Gold": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 7500,
+        "part_of": "Golden Goose"
+    },
+    "Endless Sack of Gold": {
+        "slot": "Misc",
+        "class": "Relic",
+        "cost": 10000,
+        "part_of": "Golden Goose"
+    },
+    "Inexhaustible Cart of Lumber": {
+        "slot": "Misc",
+        "class": "Minor",
+        "cost": 5000,
+        "part_of": null
+    },
+    "Inexhaustible Cart of Ore": {
+        "slot": "Misc",
+        "class": "Minor",
+        "cost": 5000,
+        "part_of": null
+    },
+    "Everpouring Vial of Mercury": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": "Cornucopia"
+    },
+    "Legs of Legion": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 5000,
+        "part_of": "Statue of Legion"
+    },
+    "Loins of Legion": {
+        "slot": "Misc",
+        "class": "Minor",
+        "cost": 5000,
+        "part_of": "Statue of Legion"
+    },
+    "Torso of Legion": {
+        "slot": "Misc",
+        "class": "Minor",
+        "cost": 5000,
+        "part_of": "Statue of Legion"
+    },
+    "Arms of Legion": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": "Statue of Legion"
+    },
+    "Head of Legion": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": "Statue of Legion"
+    },
+    "Shackles of War": {
+        "slot": "Misc",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": null
+    },
+    "Vial of Dragon Blood": {
+        "slot": "Misc",
+        "class": "Relic",
+        "cost": 20000,
+        "part_of": null
+    },
+    "Hideous Mask": {
+        "slot": "Misc",
+        "class": "Minor",
+        "cost": 4000,
+        "part_of": null
+    },
+    "Runes of Imminency": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 2000,
+        "part_of": null
+    },
+    "Demon's Horseshoe": {
+        "slot": "Misc",
+        "class": "Treasure",
+        "cost": 2000,
+        "part_of": null
+    },
+    "Shaman's Puppet": {
+        "slot": "Misc",
+        "class": "Minor",
+        "cost": 4000,
+        "part_of": null
+    },
+    "Charm of Eclipse": {
+        "slot": "Misc",
+        "class": "Minor",
+        "cost": 5000,
+        "part_of": null
+    },
+    "Horn of the Abyss": {
+        "slot": "Misc",
+        "class": "Relic",
+        "cost": 50000,
+        "part_of": null
+    },
+    "Pendant of Dispassion": {
+        "slot": "Necklace",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": null
+    },
+    "Pendant of Free Will": {
+        "slot": "Necklace",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": null
+    },
+    "Pendant of Life": {
+        "slot": "Necklace",
+        "class": "Treasure",
+        "cost": 2500,
+        "part_of": null
+    },
+    "Pendant of Death": {
+        "slot": "Necklace",
+        "class": "Treasure",
+        "cost": 2500,
+        "part_of": null
+    },
+    "Pendant of Total Recall": {
+        "slot": "Necklace",
+        "class": "Treasure",
+        "cost": 3000,
+        "part_of": null
+    },
+    "Pendant of Holiness": {
+        "slot": "Necklace",
+        "class": "Treasure",
+        "cost": 5000,
+        "part_of": null
+    },
+    "Pendant of Second Sight": {
+        "slot": "Necklace",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": null
+    },
+    "Pendant of Negativity": {
+        "slot": "Necklace",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": null
+    },
+    "Collar of Conjuring": {
+        "slot": "Necklace",
+        "class": "Treasure",
+        "cost": 500,
+        "part_of": "Ring of the Magi"
+    },
+    "Amulet of the Undertaker": {
+        "slot": "Necklace",
+        "class": "Treasure",
+        "cost": 2000,
+        "part_of": "Cloak of the Undead King"
+    },
+    "Garniture of Interference": {
+        "slot": "Necklace",
+        "class": "Major",
+        "cost": 2000,
+        "part_of": "Pendant of Reflection"
+    },
+    "Statesman's Medal": {
+        "slot": "Necklace",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": "Diplomat's Cloak"
+    },
+    "Necklace of Swiftness": {
+        "slot": "Necklace",
+        "class": "Treasure",
+        "cost": 5000,
+        "part_of": null
+    },
+    "Pendant of Courage": {
+        "slot": "Necklace",
+        "class": "Major",
+        "cost": 7000,
+        "part_of": null
+    },
+    "Necklace of Dragonteeth": {
+        "slot": "Necklace",
+        "class": "Major",
+        "cost": 6000,
+        "part_of": "Power of the Dragon Father"
+    },
+    "Necklace of Ocean Guidance": {
+        "slot": "Necklace",
+        "class": "Major",
+        "cost": 10000,
+        "part_of": "Admiral's Hat"
+    },
+    "Celestial Necklace of Bliss": {
+        "slot": "Necklace",
+        "class": "Relic",
+        "cost": 12000,
+        "part_of": "Angelic Alliance"
+    },
+    "Pendant of Downfall": {
+        "slot": "Necklace",
+        "class": "Major",
+        "cost": 7000,
+        "part_of": null
+    },
+    "Ring of Conjuring": {
+        "slot": "Ring",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": "Ring of the Magi"
+    },
+    "Still Eye of the Dragon": {
+        "slot": "Ring",
+        "class": "Treasure",
+        "cost": 2000,
+        "part_of": "Power of the Dragon Father"
+    },
+    "Quiet Eye of the Dragon": {
+        "slot": "Ring",
+        "class": "Treasure",
+        "cost": 2000,
+        "part_of": "Power of the Dragon Father"
+    },
+    "Equestrian's Gloves": {
+        "slot": "Ring",
+        "class": "Minor",
+        "cost": 3000,
+        "part_of": null
+    },
+    "Diplomat's Ring": {
+        "slot": "Ring",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": "Diplomat's Cloak"
+    },
+    "Ring of the Wayfarer": {
+        "slot": "Ring",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": null
+    },
+    "Ring of Vitality": {
+        "slot": "Ring",
+        "class": "Treasure",
+        "cost": 5000,
+        "part_of": "Elixir of Life"
+    },
+    "Ring of Life": {
+        "slot": "Ring",
+        "class": "Minor",
+        "cost": 5000,
+        "part_of": "Elixir of Life"
+    },
+    "Ring of Infinite Gems": {
+        "slot": "Ring",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": "Cornucopia"
+    },
+    "Eversmoking Ring of Sulfur": {
+        "slot": "Ring",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": "Cornucopia"
+    },
+    "Ring of Suppression": {
+        "slot": "Ring",
+        "class": "Treasure",
+        "cost": 4000,
+        "part_of": null
+    },
+    "Ring of Oblivion": {
+        "slot": "Ring",
+        "class": "Major",
+        "cost": 7500,
+        "part_of": null
+    },
+    "Seal of Sunset": {
+        "slot": "Ring",
+        "class": "Minor",
+        "cost": 5000,
+        "part_of": null
+    },
+    "Shield of the Dwarven Lords": {
+        "slot": "Shield",
+        "class": "Treasure",
+        "cost": 2000,
+        "part_of": null
+    },
+    "Shield of the Yawning Dead": {
+        "slot": "Shield",
+        "class": "Minor",
+        "cost": 3000,
+        "part_of": "Armor of the Damned"
+    },
+    "Buckler of the Gnoll King": {
+        "slot": "Shield",
+        "class": "Minor",
+        "cost": 4000,
+        "part_of": null
+    },
+    "Targ of the Rampaging Ogre": {
+        "slot": "Shield",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": "Ironfist of the Ogre"
+    },
+    "Shield of the Damned": {
+        "slot": "Shield",
+        "class": "Major",
+        "cost": 6000,
+        "part_of": null
+    },
+    "Dragon Scale Shield": {
+        "slot": "Shield",
+        "class": "Major",
+        "cost": 6000,
+        "part_of": "Power of the Dragon Father"
+    },
+    "Lion's Shield of Courage": {
+        "slot": "Shield",
+        "class": "Relic",
+        "cost": 16000,
+        "part_of": "Angelic Alliance"
+    },
+    "Sentinel's Shield": {
+        "slot": "Shield",
+        "class": "Relic",
+        "cost": 10000,
+        "part_of": "Titan's Thunder"
+    },
+    "Shield of Naval Glory": {
+        "slot": "Shield",
+        "class": "Major",
+        "cost": 7000,
+        "part_of": null
+    },
+    "Breastplate of Petrified Wood": {
+        "slot": "Torso",
+        "class": "Treasure",
+        "cost": 1000,
+        "part_of": null
+    },
+    "Rib Cage": {
+        "slot": "Torso",
+        "class": "Minor",
+        "cost": 3000,
+        "part_of": "Armor of the Damned"
+    },
+    "Scales of the Greater Basilisk": {
+        "slot": "Torso",
+        "class": "Minor",
+        "cost": 4000,
+        "part_of": null
+    },
+    "Tunic of the Cyclops King": {
+        "slot": "Torso",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": "Ironfist of the Ogre"
+    },
+    "Breastplate of Brimstone": {
+        "slot": "Torso",
+        "class": "Major",
+        "cost": 6000,
+        "part_of": null
+    },
+    "Armor of Wonder": {
+        "slot": "Torso",
+        "class": "Minor",
+        "cost": 4000,
+        "part_of": "Angelic Alliance"
+    },
+    "Dragon Scale Armor": {
+        "slot": "Torso",
+        "class": "Relic",
+        "cost": 8000,
+        "part_of": "Power of the Dragon Father"
+    },
+    "Titan's Cuirass": {
+        "slot": "Torso",
+        "class": "Relic",
+        "cost": 10000,
+        "part_of": "Titan's Thunder"
+    },
+    "Royal Armor of Nix": {
+        "slot": "Torso",
+        "class": "Major",
+        "cost": 7000,
+        "part_of": null
+    },
+    "Plate of Dying Light": {
+        "slot": "Torso",
+        "class": "Relic",
+        "cost": 10000,
+        "part_of": null
+    },
+    "Centaur's Axe": {
+        "slot": "Weapon",
+        "class": "Treasure",
+        "cost": 2000,
+        "part_of": null
+    },
+    "Blackshard of the Dead Knight": {
+        "slot": "Weapon",
+        "class": "Minor",
+        "cost": 3000,
+        "part_of": "Armor of the Damned"
+    },
+    "Greater Gnoll's Flail": {
+        "slot": "Weapon",
+        "class": "Minor",
+        "cost": 4000,
+        "part_of": null
+    },
+    "Ogre's Club of Havoc": {
+        "slot": "Weapon",
+        "class": "Major",
+        "cost": 5000,
+        "part_of": "Ironfist of the Ogre"
+    },
+    "Sword of Hellfire": {
+        "slot": "Weapon",
+        "class": "Major",
+        "cost": 6000,
+        "part_of": null
+    },
+    "Red Dragon Flame Tongue": {
+        "slot": "Weapon",
+        "class": "Minor",
+        "cost": 4000,
+        "part_of": "Power of the Dragon Father"
+    },
+    "Titan's Gladius": {
+        "slot": "Weapon",
+        "class": "Relic",
+        "cost": 10000,
+        "part_of": "Titan's Thunder"
+    },
+    "Sword of Judgement": {
+        "slot": "Weapon",
+        "class": "Relic",
+        "cost": 20000,
+        "part_of": "Angelic Alliance"
+    },
+    "Armageddon's Blade": {
+        "slot": "Weapon",
+        "class": "Relic",
+        "cost": 50000,
+        "part_of": null
+    },
+    "Trident of Dominion": {
+        "slot": "Weapon",
+        "class": "Major",
+        "cost": 7000,
+        "part_of": null
+    }
+}
