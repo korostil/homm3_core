@@ -1,0 +1,1140 @@
+{
+    "Guardhouse": {
+		"visiting_scheme": [
+            [0, 0],
+			[0, 1]
+		],
+        "town": "Castle",
+        "guards": 0,
+        "unit": "Pikeman",
+        "level": 1,
+        "growth": 14,
+        "unit_cost": {
+            "Gold": 0
+        }
+    },
+    "Archers' Tower": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Castle",
+        "guards": 0,
+        "unit": "Archer",
+        "level": 2,
+        "growth": 9,
+        "unit_cost": {
+            "Gold": 100
+        }
+    },
+    "Griffin Tower": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Castle",
+        "guards": 0,
+        "unit": "Griffin",
+        "level": 3,
+        "growth": 7,
+        "unit_cost": {
+            "Gold": 200
+        }
+    },
+    "Barracks": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Castle",
+        "guards": 0,
+        "unit": "Swordsman",
+        "level": 4,
+        "growth": 4,
+        "unit_cost": {
+            "Gold": 300
+        }
+    },
+    "Monastery": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Castle",
+        "guards": 9,
+        "unit": "Monk",
+        "level": 5,
+        "growth": 3,
+        "unit_cost": {
+            "Gold": 400
+        }
+    },
+    "Training Grounds": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Castle",
+        "guards": 6,
+        "unit": "Cavalier",
+        "level": 6,
+        "growth": 2,
+        "unit_cost": {
+            "Gold": 1000
+        }
+    },
+    "Portal of Glory": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Castle",
+        "guards": 3,
+        "unit": "Angel",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 3000,
+            "Gems": 1
+        }
+    },
+    "Centaur Stables": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Rampart",
+        "guards": 0,
+        "unit": "Centaur",
+        "level": 1,
+        "growth": 14,
+        "unit_cost": {
+            "Gold": 0
+        }
+    },
+    "Dwarf Cottage": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Rampart",
+        "guards": 0,
+        "unit": "Dwarf",
+        "level": 2,
+        "growth": 8,
+        "unit_cost": {
+            "Gold": 120
+        }
+    },
+    "Homestead": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Rampart",
+        "guards": 0,
+        "unit": "Wood Elf",
+        "level": 3,
+        "growth": 7,
+        "unit_cost": {
+            "Gold": 200
+        }
+    },
+    "Enchanted Spring": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Rampart",
+        "guards": 0,
+        "unit": "Pegasus",
+        "level": 4,
+        "growth": 5,
+        "unit_cost": {
+            "Gold": 250
+        }
+    },
+    "Dendroid Arches": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Rampart",
+        "guards": 9,
+        "unit": "Dendroid Guard",
+        "level": 5,
+        "growth": 3,
+        "unit_cost": {
+            "Gold": 350
+        }
+    },
+    "Unicorn Glade": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Rampart",
+        "guards": 6,
+        "unit": "Unicorn",
+        "level": 6,
+        "growth": 2,
+        "unit_cost": {
+            "Gold": 850
+        }
+    },
+    "Dragon Cliffs": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Rampart",
+        "guards": 3,
+        "unit": "Green Dragon",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 2400,
+            "Crystal": 1
+        }
+    },
+    "Workshop": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Tower",
+        "guards": 0,
+        "unit": "Gremlin",
+        "level": 1,
+        "growth": 14,
+        "unit_cost": {
+            "Gold": 0
+        }
+    },
+    "Parapet": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Tower",
+        "guards": 0,
+        "unit": "Stone Gargoyle",
+        "level": 2,
+        "growth": 9,
+        "unit_cost": {
+            "Gold": 130
+        }
+    },
+    "Golem Factory": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Tower",
+        "guards": 15,
+        "unit": "Stone Golem",
+        "level": 3,
+        "growth": 6,
+        "unit_cost": {
+            "Gold": 150
+        }
+    },
+    "Mage Tower": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Tower",
+        "guards": 0,
+        "unit": "Mage",
+        "level": 4,
+        "growth": 4,
+        "unit_cost": {
+            "Gold": 350
+        }
+    },
+    "Altar of Wishes": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Tower",
+        "guards": 9,
+        "unit": "Genie",
+        "level": 5,
+        "growth": 3,
+        "unit_cost": {
+            "Gold": 550
+        }
+    },
+    "Golden Pavilion": {
+		"visiting_scheme": [
+			[0, 0],
+			[0, 1]
+		],
+        "town": "Tower",
+        "guards": 6,
+        "unit": "Naga",
+        "level": 6,
+        "growth": 2,
+        "unit_cost": {
+            "Gold": 1100
+        }
+    },
+    "Cloud Temple": {
+		"visiting_scheme": [
+            [0, 0],
+			[0, 1]
+		],
+        "town": "Tower",
+        "guards": 3,
+        "unit": "Giant",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 2000,
+            "Gems": 1
+        }
+    },
+    "Imp Crucible": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Inferno",
+        "guards": 0,
+        "unit": "Imp",
+        "level": 1,
+        "growth": 15,
+        "unit_cost": {
+            "Gold": 0
+        }
+    },
+    "Hall of Sins": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Inferno",
+        "guards": 0,
+        "unit": "Gog",
+        "level": 2,
+        "growth": 8,
+        "unit_cost": {
+            "Gold": 125
+        }
+    },
+    "Kennels": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Inferno",
+        "guards": 0,
+        "unit": "Hell Hound",
+        "level": 3,
+        "growth": 5,
+        "unit_cost": {
+            "Gold": 200
+        }
+    },
+    "Demon Gate": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Inferno",
+        "guards": 0,
+        "unit": "Demon",
+        "level": 4,
+        "growth": 4,
+        "unit_cost": {
+            "Gold": 250
+        }
+    },
+    "Hell Hole": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Inferno",
+        "guards": 9,
+        "unit": "Pit Fiend",
+        "level": 5,
+        "growth": 3,
+        "unit_cost": {
+            "Gold": 500
+        }
+    },
+    "Fire Lake": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Inferno",
+        "guards": 6,
+        "unit": "Efreet",
+        "level": 6,
+        "growth": 2,
+        "unit_cost": {
+            "Gold": 900
+        }
+    },
+    "Forsaken Palace": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Inferno",
+        "guards": 3,
+        "unit": "Devil",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 2700,
+            "Mercury": 1
+        }
+    },
+    "Cursed Temple": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Necropolis",
+        "guards": 0,
+        "unit": "Skeleton",
+        "level": 1,
+        "growth": 12,
+        "unit_cost": {
+            "Gold": 0
+        }
+    },
+    "Graveyard": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Necropolis",
+        "guards": 0,
+        "unit": "Walking Dead",
+        "level": 2,
+        "growth": 8,
+        "unit_cost": {
+            "Gold": 100
+        }
+    },
+    "Tomb of Souls": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Necropolis",
+        "guards": 0,
+        "unit": "Wight",
+        "level": 3,
+        "growth": 7,
+        "unit_cost": {
+            "Gold": 200
+        }
+    },
+    "Estate": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Necropolis",
+        "guards": 0,
+        "unit": "Vampire",
+        "level": 4,
+        "growth": 4,
+        "unit_cost": {
+            "Gold": 360
+        }
+    },
+    "Mausoleum": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Necropolis",
+        "guards": 9,
+        "unit": "Lich",
+        "level": 5,
+        "growth": 3,
+        "unit_cost": {
+            "Gold": 550
+        }
+    },
+    "Hall of Darkness": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Necropolis",
+        "guards": 6,
+        "unit": "Black Knight",
+        "level": 6,
+        "growth": 2,
+        "unit_cost": {
+            "Gold": 1200
+        }
+    },
+    "Dragon Vault": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Necropolis",
+        "guards": 3,
+        "unit": "Bone Dragon",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 1800
+        }
+    },
+    "Warren": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Dungeon",
+        "guards": 0,
+        "unit": "Troglodyte",
+        "level": 1,
+        "growth": 14,
+        "unit_cost": {
+            "Gold": 0
+        }
+    },
+    "Harpy Loft": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Dungeon",
+        "guards": 0,
+        "unit": "Harpy",
+        "level": 2,
+        "growth": 8,
+        "unit_cost": {
+            "Gold": 130
+        }
+    },
+    "Pillar of Eyes": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Dungeon",
+        "guards": 0,
+        "unit": "Beholder",
+        "level": 3,
+        "growth": 7,
+        "unit_cost": {
+            "Gold": 250
+        }
+    },
+    "Chapel of Stilled Voices": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Dungeon",
+        "guards": 0,
+        "unit": "Medusa",
+        "level": 4,
+        "growth": 4,
+        "unit_cost": {
+            "Gold": 300
+        }
+    },
+    "Labyrinth": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Dungeon",
+        "guards": 9,
+        "unit": "Minotaur",
+        "level": 5,
+        "growth": 3,
+        "unit_cost": {
+            "Gold": 500
+        }
+    },
+    "Manticore Lair": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Dungeon",
+        "guards": 6,
+        "unit": "Manticore",
+        "level": 6,
+        "growth": 2,
+        "unit_cost": {
+            "Gold": 850
+        }
+    },
+    "Dragon Cave": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Dungeon",
+        "guards": 3,
+        "unit": "Red Dragon",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 2500,
+            "Sulfur": 1
+        }
+    },
+    "Goblin Barracks": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Stronghold",
+        "guards": 0,
+        "unit": "Goblin",
+        "level": 1,
+        "growth": 15,
+        "unit_cost": {
+            "Gold": 0
+        }
+    },
+    "Wolf Pen": {
+		"visiting_scheme": [
+            [0, 0],
+			[0, 1]
+		],
+        "town": "Stronghold",
+        "guards": 0,
+        "unit": "Wolf Rider",
+        "level": 2,
+        "growth": 9,
+        "unit_cost": {
+            "Gold": 100
+        }
+    },
+    "Orc Tower": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Stronghold",
+        "guards": 0,
+        "unit": "Orc",
+        "level": 3,
+        "growth": 7,
+        "unit_cost": {
+            "Gold": 150
+        }
+    },
+    "Ogre Fort": {
+		"visiting_scheme": [
+            [0, 0],
+			[0, 1]
+		],
+        "town": "Stronghold",
+        "guards": 0,
+        "unit": "Ogre",
+        "level": 4,
+        "growth": 4,
+        "unit_cost": {
+            "Gold": 300
+        }
+    },
+    "Cliff Nest": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Stronghold",
+        "guards": 9,
+        "unit": "Roc",
+        "level": 5,
+        "growth": 3,
+        "unit_cost": {
+            "Gold": 600
+        }
+    },
+    "Cyclops Cave": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Stronghold",
+        "guards": 6,
+        "unit": "Cyclops",
+        "level": 6,
+        "growth": 2,
+        "unit_cost": {
+            "Gold": 750
+        }
+    },
+    "Behemoth Crag": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Stronghold",
+        "guards": 3,
+        "unit": "Behemoth",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 1500
+        }
+    },
+    "Gnoll Hut": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Fortress",
+        "guards": 0,
+        "unit": "Gnoll",
+        "level": 1,
+        "growth": 12,
+        "unit_cost": {
+            "Gold": 0
+        }
+    },
+    "Lizard Den": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Fortress",
+        "guards": 0,
+        "unit": "Lizardman",
+        "level": 2,
+        "growth": 9,
+        "unit_cost": {
+            "Gold": 110
+        }
+    },
+    "Serpent Fly Hive": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Fortress",
+        "guards": 0,
+        "unit": "Serpent Fly",
+        "level": 3,
+        "growth": 8,
+        "unit_cost": {
+            "Gold": 220
+        }
+    },
+    "Basilisk Pit": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Fortress",
+        "guards": 0,
+        "unit": "Basilisk",
+        "level": 4,
+        "growth": 4,
+        "unit_cost": {
+            "Gold": 325
+        }
+    },
+    "Gorgon Lair": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Fortress",
+        "guards": 9,
+        "unit": "Gorgon",
+        "level": 5,
+        "growth": 3,
+        "unit_cost": {
+            "Gold": 525
+        }
+    },
+    "Wyvern Nest": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Fortress",
+        "guards": 6,
+        "unit": "Wyvern",
+        "level": 6,
+        "growth": 2,
+        "unit_cost": {
+            "Gold": 800
+        }
+    },
+    "Hydra Pond": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Fortress",
+        "guards": 3,
+        "unit": "Hydra",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 2200
+        }
+    },
+    "Magic Lantern": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Conflux",
+        "guards": 0,
+        "unit": "Pixie",
+        "level": 1,
+        "growth": 20,
+        "unit_cost": {
+            "Gold": 0
+        }
+    },
+    "Altar of Air": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Conflux",
+        "guards": 0,
+        "unit": "Air Elemental",
+        "level": 2,
+        "growth": 6,
+        "unit_cost": {
+            "Gold": 250
+        }
+    },
+    "Altar of Water": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Conflux",
+        "guards": 0,
+        "unit": "Water Elemental",
+        "level": 3,
+        "growth": 6,
+        "unit_cost": {
+            "Gold": 300
+        }
+    },
+    "Altar of Fire": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Conflux",
+        "guards": 0,
+        "unit": "Fire Elemental",
+        "level": 4,
+        "growth": 5,
+        "unit_cost": {
+            "Gold": 350
+        }
+    },
+    "Altar of Earth": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Conflux",
+        "guards": 12,
+        "unit": "Earth Elemental",
+        "level": 5,
+        "growth": 4,
+        "unit_cost": {
+            "Gold": 400
+        }
+    },
+    "Altar of Thought": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Conflux",
+        "guards": 6,
+        "unit": "Psychic Elemental",
+        "level": 6,
+        "growth": 2,
+        "unit_cost": {
+            "Gold": 950
+        }
+    },
+    "Pyre": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Conflux",
+        "guards": 3,
+        "unit": "Firebird",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 2000
+        }
+    },
+    "Nymph Waterfall": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Cove",
+        "guards": 0,
+        "unit": "Nymph",
+        "level": 1,
+        "growth": 16,
+        "unit_cost": {
+            "Gold": 0
+        }
+    },
+    "Shack": {
+		"visiting_scheme": [
+            [0, 0],
+			[1, 0]
+		],
+        "town": "Cove",
+        "guards": 0,
+        "unit": "Crew Mate",
+        "level": 2,
+        "growth": 9,
+        "unit_cost": {
+            "Gold": 110
+        }
+    },
+    "Frigate": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Cove",
+        "guards": 0,
+        "unit": "Pirate",
+        "level": 3,
+        "growth": 7,
+        "unit_cost": {
+            "Gold": 225
+        }
+    },
+    "Nest": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Cove",
+        "guards": 0,
+        "unit": "Stormbird",
+        "level": 4,
+        "growth": 4,
+        "unit_cost": {
+            "Gold": 275
+        }
+    },
+    "Tower of the Seas": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Cove",
+        "guards": 9,
+        "unit": "Sea Witch",
+        "level": 5,
+        "growth": 3,
+        "unit_cost": {
+            "Gold": 515
+        }
+    },
+    "Nix Fort": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Cove",
+        "guards": 6,
+        "unit": "Nix",
+        "level": 6,
+        "growth": 2,
+        "unit_cost": {
+            "Gold": 1000
+        }
+    },
+    "Maelstrom": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Cove",
+        "guards": 3,
+        "unit": "Sea Serpent",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 2200,
+            "Sulfur": 1
+        }
+    },
+    "Hovel": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 0,
+        "unit": "Peasant",
+        "level": 1,
+        "growth": 25,
+        "unit_cost": {
+            "Gold": 0
+        }
+    },
+    "Thatched Hut": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 0,
+        "unit": "Halfling",
+        "level": 1,
+        "growth": 15,
+        "unit_cost": {
+            "Gold": 0
+        }
+    },
+    "Rogue Cavern": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 0,
+        "unit": "Rogue",
+        "level": 2,
+        "growth": 8,
+        "unit_cost": {
+            "Gold": 100
+        }
+    },
+    "Alehouse": {
+		"visiting_scheme": [
+			[1, 0]
+		],
+        "town": "Neutral",
+        "guards": 0,
+        "unit": "Leprechaun",
+        "level": 2,
+        "growth": 9,
+        "unit_cost": {
+            "Gold": 100
+        }
+    },
+    "Boar Glen": {
+		"visiting_scheme": [
+            [0, 0],
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 0,
+        "unit": "Boar",
+        "level": 2,
+        "growth": 8,
+        "unit_cost": {
+            "Gold": 150
+        }
+    },
+    "Nomad Tent": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 0,
+        "unit": "Nomad",
+        "level": 3,
+        "growth": 7,
+        "unit_cost": {
+            "Gold": 200
+        }
+    },
+    "Tomb of Curses": {
+		"visiting_scheme": [
+            [0, 0],
+			[1, 0]
+		],
+        "town": "Neutral",
+        "guards": 0,
+        "unit": "Mummy",
+        "level": 3,
+        "growth": 7,
+        "unit_cost": {
+            "Gold": 300
+        }
+    },
+    "Wineyard": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 0,
+        "unit": "Satyr",
+        "level": 4,
+        "growth": 4,
+        "unit_cost": {
+            "Gold": 300
+        }
+    },
+    "Treetop Tower": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 0,
+        "unit": "Sharpshooter",
+        "level": 4,
+        "growth": 4,
+        "unit_cost": {
+            "Gold": 400
+        }
+    },
+    "Troll Bridge": {
+		"visiting_scheme": [
+            [0, 0],
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 9,
+        "unit": "Troll",
+        "level": 5,
+        "growth": 3,
+        "unit_cost": {
+            "Gold": 500
+        }
+    },
+    "Ziggurat": {
+		"visiting_scheme": [
+            [0, 0],
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 9,
+        "unit": "Fangarm",
+        "level": 5,
+        "growth": 3,
+        "unit_cost": {
+            "Gold": 600
+        }
+    },
+    "Enchanter's Hollow": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 15,
+        "unit": "Enchanter",
+        "level": 6,
+        "growth": 2,
+        "unit_cost": {
+            "Gold": 750
+        }
+    },
+    "Magic Forest": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 6,
+        "unit": "Faerie Dragon",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 10000,
+            "Gems": 8
+        }
+    },
+    "Sulfurous Lair": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 3,
+        "unit": "Rust Dragon",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 15000,
+            "Sulfur": 14
+        }
+    },
+    "Crystal Cave": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 3,
+        "unit": "Crystal Dragon",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 20000,
+            "Crystal": 10
+        }
+    },
+    "Frozen Cliffs": {
+		"visiting_scheme": [
+			[0, 1]
+		],
+        "town": "Neutral",
+        "guards": 3,
+        "unit": "Azure Dragon",
+        "level": 7,
+        "growth": 1,
+        "unit_cost": {
+            "Gold": 30000,
+            "Mercury": 20
+        }
+    }
+}
