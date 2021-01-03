@@ -78,7 +78,7 @@ class ArmyStack:
 # all the available creatures
 CREATURES = {}
 
-with open(os.path.dirname(os.path.abspath(__file__)) + '/data/spells_hota.json', 'r') as file:
+with open(os.path.dirname(os.path.abspath(__file__)) + '/data/creatures_hota.json', 'r') as file:
     for name, attributes in json.loads(file.read()).items():
         CREATURES[name] = Creature(
             name=name,

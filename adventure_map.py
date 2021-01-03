@@ -55,6 +55,7 @@ class AdventureMapObject:
     index: int  # index (to track)
     can_be_basis: bool  # object can be a basis tile
     visiting_scheme: list
+    rmg_value: int
 
 
 @dataclass
@@ -84,10 +85,12 @@ class AdventureMap:
             title=title,
             index=map_object['index'],
             can_be_basis=map_object.get('can_be_basis', False),
-            visiting_scheme=map_object.get('visiting_scheme', [])
+            visiting_scheme=map_object.get('visiting_scheme', []),
+            rmg_value=map_object.get('rmg_value', 0)
         )
         for title, map_object in json.loads(
-            open(os.path.dirname(os.path.abspath(__file__)) + '/data/adventure_map_objects.json', 'r').read()).items()
+            open(os.path.dirname(os.path.abspath(__file__)) + '/data/adventure_map_objects_hota.json', 'r').read()
+        ).items()
     }
 
     def __init__(self, width, height, basis_tile: MapTile = None, objects: list = None):
@@ -98,7 +101,7 @@ class AdventureMap:
             width: number of tiles (or size in pixels) horizontally
             height: number of tiles (or size in pixels) vertically
             basis_tile: basis tile that serves as an anchor during map constructing
-            objects:
+            objects: list of 2-tuples consisting an of object name and its position e.g. ('Gold Mine', (0, 0, 128, 64)
         """
 
         if objects and not basis_tile:
@@ -121,6 +124,7 @@ class AdventureMap:
             [None for _ in range(self.width)]
             for _ in range(self.height)
         ]
+        self.objects = {}   # dict of all objects presented on this map
 
         if objects:
             self._build(objects)
@@ -133,11 +137,11 @@ class AdventureMap:
         ])
 
     @classmethod
-    def define_basis_tile(cls, recognized_objects: list):
+    def define_basis_tile(cls, objects: list) -> MapTile:
         """By given picture find x, y coordinates and size of basis tile
 
         Args:
-            recognized_objects:
+            objects: list of 2-tuples consisting an of object name and its position e.g. ('Gold Mine', (0, 0, 128, 64)
 
         Returns:
             MapTile:
@@ -145,15 +149,15 @@ class AdventureMap:
 
         # TODO what if there is non of "can_be_basis" tile
 
-        for map_object, (x0, y0, x1, y1) in recognized_objects:
+        for map_object, (x0, y0, x1, y1) in objects:
             if cls.OBJECTS[map_object].can_be_basis:
                 return MapTile(x=x0, y=y0, size=x1 - x0)
 
-    def _build(self, recognized_objects: list):
+    def _build(self, objects: list) -> None:
         """Place objects on a matrix
 
         Args:
-            recognized_objects:
+            objects: list of 2-tuples consisting an of object name and its position e.g. ('Gold Mine', (0, 0, 128, 64)
 
         Returns:
 
@@ -162,7 +166,7 @@ class AdventureMap:
         shift_x = self.basis_tile.x % self.basis_tile.size
         shift_y = self.basis_tile.y % self.basis_tile.size
 
-        for map_object, (x0, y0, _, _) in recognized_objects:
+        for map_object, (x0, y0, _, _) in objects:
             map_object = self.OBJECTS[map_object]
             x = int((shift_x + x0) / self.basis_tile.size)
             y = int((shift_y + y0) / self.basis_tile.size)
@@ -172,6 +176,7 @@ class AdventureMap:
                     # "-1" - means tile belongs to rectangle in which the object is inscribed, but not belongs to
                     # the object
                     if horizontal != -1:
+                        # TODO why is y first?
                         self.array[y + idx_y][x + idx_x] = MapTile(
                             x=x + idx_x,
                             y=y + idx_y,
@@ -179,3 +184,9 @@ class AdventureMap:
                             map_object=map_object,
                             can_be_visited=horizontal == 1
                         )
+
+            self.objects.setdefault(map_object, []).append((x, y))
+
+    def find_objects(self, name: str) -> list:
+        # TODO not implement
+        pass
